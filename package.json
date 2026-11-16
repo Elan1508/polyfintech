@@ -1,0 +1,20 @@
+{
+  "name": "polyfintech2026",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm --prefix frontend install",
+    "dev": "node scripts/dev.mjs",
+    "dev:frontend": "node scripts/dev.mjs --frontend",
+    "dev:backend": "node scripts/dev.mjs --backend",
+    "build": "npm --prefix frontend run build",
+    "preview": "npm --prefix frontend run preview",
+    "format": "prettier --write \"frontend/src/**/*.{js,jsx,css}\" \"frontend/*.{js,html,json}\" \"scripts/*.mjs\" \"frontend/tests/*.mjs\" package.json .prettierrc.json",
+    "format:check": "prettier --check \"frontend/src/**/*.{js,jsx,css}\" \"frontend/*.{js,html,json}\" \"scripts/*.mjs\" \"frontend/tests/*.mjs\" package.json .prettierrc.json",
+    "test:frontend": "node --test frontend/tests/*.test.mjs",
+    "package": "node scripts/package.mjs"
+  },
+  "devDependencies": {
+    "prettier": "^3.10.1"
+  }
+}

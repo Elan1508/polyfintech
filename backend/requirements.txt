@@ -1,0 +1,12 @@
+fastapi==0.162.5
+uvicorn==0.54.0
+httpx==0.28.1
+pypdf==7.0.1
+fonttools==4.68.0
+python-multipart==0.0.33
+python-docx==1.2.0
+python-dotenv==1.2.4
+openai==2.54.0
+reportlab==5.1.0
+yfinance==1.8.0
+cryptography==50.0.2

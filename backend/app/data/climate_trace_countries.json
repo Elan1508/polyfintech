@@ -1,0 +1,2563 @@
+{
+  "attribution": "Climate TRACE, CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "methodology_url": "https://climatetrace.org/methodology",
+  "fetched_at": "2026-11-15T15:42:15.450177+00:00",
+  "metadata": {
+    "dataVersion": "v5.12.0",
+    "releaseDate": "2026-10-28",
+    "lastUpdated": "2026-10-23T23:12:40.308835Z",
+    "temporalCoverage": {
+      "start": "2015-01",
+      "end": "2026-08",
+      "frequency": "monthly"
+    },
+    "changelogUrl": "https://github.com/climatetracecoalition/methodology-documents/tree/main/2026/CHANGELOG"
+  },
+  "gas": "co2",
+  "sector_boundary": "all_no_forest",
+  "years": {
+    "2023": {
+      "url": "https://api.climatetrace.org/v7/rankings/countries?start=2023&end=2023&gas=co2&sectors=all_no_forest",
+      "totals": {
+        "gas": "co2",
+        "emissionsQuantity": 42900536456.12694,
+        "start": "2023-01-01",
+        "end": "2023-12-31"
+      },
+      "countries": [
+        {
+          "country": "CHN",
+          "name": "China",
+          "emissionsQuantity": 14023027125.944128
+        },
+        {
+          "country": "USA",
+          "name": "United States of America",
+          "emissionsQuantity": 5236737059.20923
+        },
+        {
+          "country": "IND",
+          "name": "India",
+          "emissionsQuantity": 2913245966.066419
+        },
+        {
+          "country": "RUS",
+          "name": "Russian Federation",
+          "emissionsQuantity": 2143224397.7204885
+        },
+        {
+          "country": "JPN",
+          "name": "Japan",
+          "emissionsQuantity": 1222122252.363353
+        },
+        {
+          "country": "IDN",
+          "name": "Indonesia",
+          "emissionsQuantity": 1041948388.66306
+        },
+        {
+          "country": "IRN",
+          "name": "Iran (Islamic Republic of)",
+          "emissionsQuantity": 878620634.2400542
+        },
+        {
+          "country": "SAU",
+          "name": "Saudi Arabia",
+          "emissionsQuantity": 757305074.1045021
+        },
+        {
+          "country": "KOR",
+          "name": "Republic of Korea",
+          "emissionsQuantity": 656239964.9248174
+        },
+        {
+          "country": "CAN",
+          "name": "Canada",
+          "emissionsQuantity": 639769547.9062256
+        },
+        {
+          "country": "DEU",
+          "name": "Germany",
+          "emissionsQuantity": 629055034.5421337
+        },
+        {
+          "country": "BRA",
+          "name": "Brazil",
+          "emissionsQuantity": 599275660.466518
+        },
+        {
+          "country": "MEX",
+          "name": "Mexico",
+          "emissionsQuantity": 542441134.4167203
+        },
+        {
+          "country": "AUS",
+          "name": "Australia",
+          "emissionsQuantity": 514133341.4986529
+        },
+        {
+          "country": "TUR",
+          "name": "Turkey",
+          "emissionsQuantity": 485013190.60572606
+        },
+        {
+          "country": "ZAF",
+          "name": "South Africa",
+          "emissionsQuantity": 420544939.45607805
+        },
+        {
+          "country": "GBR",
+          "name": "United Kingdom of Great Britain and Northern Ireland",
+          "emissionsQuantity": 358688797.3470638
+        },
+        {
+          "country": "VNM",
+          "name": "Viet Nam",
+          "emissionsQuantity": 339618170.5079041
+        },
+        {
+          "country": "MYS",
+          "name": "Malaysia",
+          "emissionsQuantity": 324915391.1168474
+        },
+        {
+          "country": "FRA",
+          "name": "France",
+          "emissionsQuantity": 315472312.74691826
+        },
+        {
+          "country": "UNK",
+          "name": "Unknown",
+          "emissionsQuantity": 314420737.3168544
+        },
+        {
+          "country": "POL",
+          "name": "Poland",
+          "emissionsQuantity": 307963211.770575
+        },
+        {
+          "country": "ARE",
+          "name": "United Arab Emirates",
+          "emissionsQuantity": 305957829.0220151
+        },
+        {
+          "country": "ITA",
+          "name": "Italy",
+          "emissionsQuantity": 298101915.4050377
+        },
+        {
+          "country": "EGY",
+          "name": "Egypt",
+          "emissionsQuantity": 295152325.4414802
+        },
+        {
+          "country": "TWN",
+          "name": "Taiwan",
+          "emissionsQuantity": 283723691.8643176
+        },
+        {
+          "country": "KAZ",
+          "name": "Kazakhstan",
+          "emissionsQuantity": 282209220.13023627
+        },
+        {
+          "country": "DZA",
+          "name": "Algeria",
+          "emissionsQuantity": 277711525.1132947
+        },
+        {
+          "country": "IRQ",
+          "name": "Iraq",
+          "emissionsQuantity": 272466535.22071606
+        },
+        {
+          "country": "THA",
+          "name": "Thailand",
+          "emissionsQuantity": 270222335.389221
+        },
+        {
+          "country": "ESP",
+          "name": "Spain",
+          "emissionsQuantity": 245399809.15916324
+        },
+        {
+          "country": "ARG",
+          "name": "Argentina",
+          "emissionsQuantity": 230124317.42623043
+        },
+        {
+          "country": "PAK",
+          "name": "Pakistan",
+          "emissionsQuantity": 205559947.22321892
+        },
+        {
+          "country": "UKR",
+          "name": "Ukraine",
+          "emissionsQuantity": 172501775.5225922
+        },
+        {
+          "country": "NLD",
+          "name": "Netherlands",
+          "emissionsQuantity": 170982777.47832218
+        },
+        {
+          "country": "QAT",
+          "name": "Qatar",
+          "emissionsQuantity": 161239079.72586656
+        },
+        {
+          "country": "PHL",
+          "name": "Philippines",
+          "emissionsQuantity": 158520235.67696714
+        },
+        {
+          "country": "UZB",
+          "name": "Uzbekistan",
+          "emissionsQuantity": 150746820.83121464
+        },
+        {
+          "country": "NGA",
+          "name": "Nigeria",
+          "emissionsQuantity": 147984037.83919367
+        },
+        {
+          "country": "BGD",
+          "name": "Bangladesh",
+          "emissionsQuantity": 146294864.76291308
+        },
+        {
+          "country": "KWT",
+          "name": "Kuwait",
+          "emissionsQuantity": 127594171.93442906
+        },
+        {
+          "country": "OMN",
+          "name": "Oman",
+          "emissionsQuantity": 125591334.02344866
+        },
+        {
+          "country": "VEN",
+          "name": "Venezuela (Bolivarian Republic of)",
+          "emissionsQuantity": 116158930.46550365
+        },
+        {
+          "country": "TKM",
+          "name": "Turkmenistan",
+          "emissionsQuantity": 107607635.91261354
+        },
+        {
+          "country": "BLR",
+          "name": "Belarus",
+          "emissionsQuantity": 102656072.21995899
+        },
+        {
+          "country": "CHL",
+          "name": "Chile",
+          "emissionsQuantity": 98687673.05121598
+        },
+        {
+          "country": "SGP",
+          "name": "Singapore",
+          "emissionsQuantity": 95912242.0994289
+        },
+        {
+          "country": "BEL",
+          "name": "Belgium",
+          "emissionsQuantity": 94868056.50292267
+        },
+        {
+          "country": "COL",
+          "name": "Colombia",
+          "emissionsQuantity": 93862751.42072405
+        },
+        {
+          "country": "NOR",
+          "name": "Norway",
+          "emissionsQuantity": 89478017.2006719
+        },
+        {
+          "country": "LBY",
+          "name": "Libya",
+          "emissionsQuantity": 86075121.98740655
+        },
+        {
+          "country": "CZE",
+          "name": "Czechia",
+          "emissionsQuantity": 84597053.35014293
+        },
+        {
+          "country": "ROU",
+          "name": "Romania",
+          "emissionsQuantity": 80116384.64196128
+        },
+        {
+          "country": "MAR",
+          "name": "Morocco",
+          "emissionsQuantity": 79940258.2553818
+        },
+        {
+          "country": "PRK",
+          "name": "Democratic People's Republic of Korea",
+          "emissionsQuantity": 76526302.38279754
+        },
+        {
+          "country": "PER",
+          "name": "Peru",
+          "emissionsQuantity": 76472679.02521792
+        },
+        {
+          "country": "ISR",
+          "name": "Israel",
+          "emissionsQuantity": 75711652.20439708
+        },
+        {
+          "country": "GRC",
+          "name": "Greece",
+          "emissionsQuantity": 71070502.87051572
+        },
+        {
+          "country": "AZE",
+          "name": "Azerbaijan",
+          "emissionsQuantity": 59476533.11074276
+        },
+        {
+          "country": "SWE",
+          "name": "Sweden",
+          "emissionsQuantity": 58988157.74121532
+        },
+        {
+          "country": "MNG",
+          "name": "Mongolia",
+          "emissionsQuantity": 58938866.69771102
+        },
+        {
+          "country": "FIN",
+          "name": "Finland",
+          "emissionsQuantity": 57960521.61669945
+        },
+        {
+          "country": "AUT",
+          "name": "Austria",
+          "emissionsQuantity": 54580303.1857002
+        },
+        {
+          "country": "PRT",
+          "name": "Portugal",
+          "emissionsQuantity": 54139726.83150999
+        },
+        {
+          "country": "HUN",
+          "name": "Hungary",
+          "emissionsQuantity": 53155181.39274501
+        },
+        {
+          "country": "MMR",
+          "name": "Myanmar",
+          "emissionsQuantity": 49592693.762561366
+        },
+        {
+          "country": "ECU",
+          "name": "Ecuador",
+          "emissionsQuantity": 49545651.34282907
+        },
+        {
+          "country": "IRL",
+          "name": "Ireland",
+          "emissionsQuantity": 49112494.35300853
+        },
+        {
+          "country": "SRB",
+          "name": "Serbia",
+          "emissionsQuantity": 47112139.64299882
+        },
+        {
+          "country": "AGO",
+          "name": "Angola",
+          "emissionsQuantity": 47013231.96972299
+        },
+        {
+          "country": "HKG",
+          "name": "China, Hong Kong Special Administrative Region",
+          "emissionsQuantity": 46975670.70251996
+        },
+        {
+          "country": "TUN",
+          "name": "Tunisia",
+          "emissionsQuantity": 44643394.8013976
+        },
+        {
+          "country": "BHR",
+          "name": "Bahrain",
+          "emissionsQuantity": 44523452.34535921
+        },
+        {
+          "country": "NZL",
+          "name": "New Zealand",
+          "emissionsQuantity": 44500088.917550676
+        },
+        {
+          "country": "ETH",
+          "name": "Ethiopia",
+          "emissionsQuantity": 43988103.93284614
+        },
+        {
+          "country": "TZA",
+          "name": "United Republic of Tanzania",
+          "emissionsQuantity": 43225937.622712426
+        },
+        {
+          "country": "SYR",
+          "name": "Syrian Arab Republic",
+          "emissionsQuantity": 41134029.96104276
+        },
+        {
+          "country": "BOL",
+          "name": "Bolivia (Plurinational State of)",
+          "emissionsQuantity": 40796171.725711115
+        },
+        {
+          "country": "BGR",
+          "name": "Bulgaria",
+          "emissionsQuantity": 40362593.72620677
+        },
+        {
+          "country": "GHA",
+          "name": "Ghana",
+          "emissionsQuantity": 38077583.6665613
+        },
+        {
+          "country": "DNK",
+          "name": "Denmark",
+          "emissionsQuantity": 35736275.842369765
+        },
+        {
+          "country": "SDN",
+          "name": "Sudan",
+          "emissionsQuantity": 35410149.11805327
+        },
+        {
+          "country": "KEN",
+          "name": "Kenya",
+          "emissionsQuantity": 35254833.45027382
+        },
+        {
+          "country": "CHE",
+          "name": "Switzerland",
+          "emissionsQuantity": 34986928.649023525
+        },
+        {
+          "country": "ZMB",
+          "name": "Zambia",
+          "emissionsQuantity": 34687972.30920311
+        },
+        {
+          "country": "PNG",
+          "name": "Papua New Guinea",
+          "emissionsQuantity": 34471952.09311612
+        },
+        {
+          "country": "DOM",
+          "name": "Dominican Republic",
+          "emissionsQuantity": 32362654.784408975
+        },
+        {
+          "country": "CUB",
+          "name": "Cuba",
+          "emissionsQuantity": 32341946.581373
+        },
+        {
+          "country": "COD",
+          "name": "Democratic Republic of the Congo",
+          "emissionsQuantity": 31906899.367189404
+        },
+        {
+          "country": "TTO",
+          "name": "Trinidad and Tobago",
+          "emissionsQuantity": 30736793.46701435
+        },
+        {
+          "country": "SVK",
+          "name": "Slovakia",
+          "emissionsQuantity": 29010690.437664337
+        },
+        {
+          "country": "PRI",
+          "name": "Puerto Rico",
+          "emissionsQuantity": 28897153.27502164
+        },
+        {
+          "country": "SEN",
+          "name": "Senegal",
+          "emissionsQuantity": 28432331.855980344
+        },
+        {
+          "country": "JOR",
+          "name": "Jordan",
+          "emissionsQuantity": 27880437.870131094
+        },
+        {
+          "country": "CIV",
+          "name": "C\u00f4te d'Ivoire",
+          "emissionsQuantity": 27816752.875850126
+        },
+        {
+          "country": "LAO",
+          "name": "Lao People's Democratic Republic",
+          "emissionsQuantity": 26292285.43948598
+        },
+        {
+          "country": "LKA",
+          "name": "Sri Lanka",
+          "emissionsQuantity": 25488884.59721577
+        },
+        {
+          "country": "MOZ",
+          "name": "Mozambique",
+          "emissionsQuantity": 24182859.963769373
+        },
+        {
+          "country": "CMR",
+          "name": "Cameroon",
+          "emissionsQuantity": 23044443.34385355
+        },
+        {
+          "country": "PAN",
+          "name": "Panama",
+          "emissionsQuantity": 23012062.774895724
+        },
+        {
+          "country": "LTU",
+          "name": "Lithuania",
+          "emissionsQuantity": 22705482.102801748
+        },
+        {
+          "country": "BIH",
+          "name": "Bosnia and Herzegovina",
+          "emissionsQuantity": 22365328.30169349
+        },
+        {
+          "country": "KHM",
+          "name": "Cambodia",
+          "emissionsQuantity": 21446691.275329936
+        },
+        {
+          "country": "MLI",
+          "name": "Mali",
+          "emissionsQuantity": 20799450.261093438
+        },
+        {
+          "country": "HRV",
+          "name": "Croatia",
+          "emissionsQuantity": 20590032.684254736
+        },
+        {
+          "country": "UGA",
+          "name": "Uganda",
+          "emissionsQuantity": 20351508.985705428
+        },
+        {
+          "country": "GTM",
+          "name": "Guatemala",
+          "emissionsQuantity": 20128656.123770967
+        },
+        {
+          "country": "AFG",
+          "name": "Afghanistan",
+          "emissionsQuantity": 20041316.789333403
+        },
+        {
+          "country": "NPL",
+          "name": "Nepal",
+          "emissionsQuantity": 19761765.142101716
+        },
+        {
+          "country": "YEM",
+          "name": "Yemen",
+          "emissionsQuantity": 19550109.233872335
+        },
+        {
+          "country": "ZWE",
+          "name": "Zimbabwe",
+          "emissionsQuantity": 18236998.996970035
+        },
+        {
+          "country": "EST",
+          "name": "Estonia",
+          "emissionsQuantity": 18195432.225157652
+        },
+        {
+          "country": "TJK",
+          "name": "Tajikistan",
+          "emissionsQuantity": 17593644.20005544
+        },
+        {
+          "country": "KGZ",
+          "name": "Kyrgyzstan",
+          "emissionsQuantity": 16318340.327021677
+        },
+        {
+          "country": "GEO",
+          "name": "Georgia",
+          "emissionsQuantity": 16083447.310112815
+        },
+        {
+          "country": "COG",
+          "name": "Congo",
+          "emissionsQuantity": 15964568.83291092
+        },
+        {
+          "country": "GIN",
+          "name": "Guinea",
+          "emissionsQuantity": 15911525.32148564
+        },
+        {
+          "country": "SSD",
+          "name": "South Sudan",
+          "emissionsQuantity": 14225626.839751847
+        },
+        {
+          "country": "LVA",
+          "name": "Latvia",
+          "emissionsQuantity": 14187582.891750736
+        },
+        {
+          "country": "MDG",
+          "name": "Madagascar",
+          "emissionsQuantity": 13117482.637022113
+        },
+        {
+          "country": "HND",
+          "name": "Honduras",
+          "emissionsQuantity": 12885025.867188795
+        },
+        {
+          "country": "BWA",
+          "name": "Botswana",
+          "emissionsQuantity": 12734066.496967891
+        },
+        {
+          "country": "MDA",
+          "name": "Republic of Moldova",
+          "emissionsQuantity": 12578331.509783452
+        },
+        {
+          "country": "SVN",
+          "name": "Slovenia",
+          "emissionsQuantity": 12337946.56082573
+        },
+        {
+          "country": "LBN",
+          "name": "Lebanon",
+          "emissionsQuantity": 12049814.351465244
+        },
+        {
+          "country": "JAM",
+          "name": "Jamaica",
+          "emissionsQuantity": 12000663.767084071
+        },
+        {
+          "country": "ARM",
+          "name": "Armenia",
+          "emissionsQuantity": 11065086.464291204
+        },
+        {
+          "country": "MRT",
+          "name": "Mauritania",
+          "emissionsQuantity": 10761124.890331853
+        },
+        {
+          "country": "BRN",
+          "name": "Brunei Darussalam",
+          "emissionsQuantity": 10554492.996862087
+        },
+        {
+          "country": "GUY",
+          "name": "Guyana",
+          "emissionsQuantity": 10453279.817870045
+        },
+        {
+          "country": "URY",
+          "name": "Uruguay",
+          "emissionsQuantity": 10151766.718256231
+        },
+        {
+          "country": "XKX",
+          "name": "Kosovo",
+          "emissionsQuantity": 9831360.77752961
+        },
+        {
+          "country": "NAM",
+          "name": "Namibia",
+          "emissionsQuantity": 9707687.486340763
+        },
+        {
+          "country": "SLV",
+          "name": "El Salvador",
+          "emissionsQuantity": 9337186.332842587
+        },
+        {
+          "country": "NER",
+          "name": "Niger",
+          "emissionsQuantity": 9315666.243603546
+        },
+        {
+          "country": "TCD",
+          "name": "Chad",
+          "emissionsQuantity": 9044059.125909517
+        },
+        {
+          "country": "CYP",
+          "name": "Cyprus",
+          "emissionsQuantity": 8954703.519778462
+        },
+        {
+          "country": "CRI",
+          "name": "Costa Rica",
+          "emissionsQuantity": 8565306.834351027
+        },
+        {
+          "country": "BFA",
+          "name": "Burkina Faso",
+          "emissionsQuantity": 8546799.585990543
+        },
+        {
+          "country": "PRY",
+          "name": "Paraguay",
+          "emissionsQuantity": 8515412.321105136
+        },
+        {
+          "country": "MKD",
+          "name": "The former Yugoslav Republic of Macedonia",
+          "emissionsQuantity": 8340459.904961736
+        },
+        {
+          "country": "NIC",
+          "name": "Nicaragua",
+          "emissionsQuantity": 8291634.245418557
+        },
+        {
+          "country": "BEN",
+          "name": "Benin",
+          "emissionsQuantity": 8031211.091922277
+        },
+        {
+          "country": "GAB",
+          "name": "Gabon",
+          "emissionsQuantity": 7954472.778414485
+        },
+        {
+          "country": "ISL",
+          "name": "Iceland",
+          "emissionsQuantity": 7702675.400228648
+        },
+        {
+          "country": "SOM",
+          "name": "Somalia",
+          "emissionsQuantity": 7539306.517821826
+        },
+        {
+          "country": "ALB",
+          "name": "Albania",
+          "emissionsQuantity": 7475271.175562818
+        },
+        {
+          "country": "MWI",
+          "name": "Malawi",
+          "emissionsQuantity": 7414951.843117073
+        },
+        {
+          "country": "REU",
+          "name": "R\u00e9union",
+          "emissionsQuantity": 6683126.165748958
+        },
+        {
+          "country": "BHS",
+          "name": "Bahamas",
+          "emissionsQuantity": 6682169.288443201
+        },
+        {
+          "country": "RWA",
+          "name": "Rwanda",
+          "emissionsQuantity": 6626346.064456925
+        },
+        {
+          "country": "MUS",
+          "name": "Mauritius",
+          "emissionsQuantity": 6530707.836767065
+        },
+        {
+          "country": "GNQ",
+          "name": "Equatorial Guinea",
+          "emissionsQuantity": 6382587.640428072
+        },
+        {
+          "country": "NCL",
+          "name": "New Caledonia",
+          "emissionsQuantity": 5933321.865128069
+        },
+        {
+          "country": "FLK",
+          "name": "Falkland Islands (Malvinas)",
+          "emissionsQuantity": 5794966.599161768
+        },
+        {
+          "country": "BDI",
+          "name": "Burundi",
+          "emissionsQuantity": 5598415.468346791
+        },
+        {
+          "country": "LUX",
+          "name": "Luxembourg",
+          "emissionsQuantity": 5437326.3055886645
+        },
+        {
+          "country": "TGO",
+          "name": "Togo",
+          "emissionsQuantity": 5239204.030085177
+        },
+        {
+          "country": "PSE",
+          "name": "State of Palestine",
+          "emissionsQuantity": 5090310.059192739
+        },
+        {
+          "country": "MLT",
+          "name": "Malta",
+          "emissionsQuantity": 4400075.007871479
+        },
+        {
+          "country": "HTI",
+          "name": "Haiti",
+          "emissionsQuantity": 4248545.807332357
+        },
+        {
+          "country": "ERI",
+          "name": "Eritrea",
+          "emissionsQuantity": 3910098.6793012265
+        },
+        {
+          "country": "SUR",
+          "name": "Suriname",
+          "emissionsQuantity": 3857668.8947914112
+        },
+        {
+          "country": "MNE",
+          "name": "Montenegro",
+          "emissionsQuantity": 3732365.3164357613
+        },
+        {
+          "country": "SLE",
+          "name": "Sierra Leone",
+          "emissionsQuantity": 3624588.7969760043
+        },
+        {
+          "country": "LBR",
+          "name": "Liberia",
+          "emissionsQuantity": 3452132.667760537
+        },
+        {
+          "country": "LSO",
+          "name": "Lesotho",
+          "emissionsQuantity": 3183861.711783903
+        },
+        {
+          "country": "GLP",
+          "name": "Guadeloupe",
+          "emissionsQuantity": 3011172.682397102
+        },
+        {
+          "country": "MTQ",
+          "name": "Martinique",
+          "emissionsQuantity": 2988368.3949364386
+        },
+        {
+          "country": "ZNC",
+          "name": "Turkish Republic of Northern Cyprus",
+          "emissionsQuantity": 2896289.395949565
+        },
+        {
+          "country": "CUW",
+          "name": "Cura\u00e7ao",
+          "emissionsQuantity": 2759644.3316523083
+        },
+        {
+          "country": "FJI",
+          "name": "Fiji",
+          "emissionsQuantity": 2749887.236262486
+        },
+        {
+          "country": "GUM",
+          "name": "Guam",
+          "emissionsQuantity": 2547735.8865798763
+        },
+        {
+          "country": "PYF",
+          "name": "French Polynesia",
+          "emissionsQuantity": 2531498.842838865
+        },
+        {
+          "country": "GMB",
+          "name": "Gambia",
+          "emissionsQuantity": 2443445.6812110953
+        },
+        {
+          "country": "MDV",
+          "name": "Maldives",
+          "emissionsQuantity": 2415930.15660376
+        },
+        {
+          "country": "BRB",
+          "name": "Barbados",
+          "emissionsQuantity": 2368317.480792288
+        },
+        {
+          "country": "CAF",
+          "name": "Central African Republic",
+          "emissionsQuantity": 2309955.0924037546
+        },
+        {
+          "country": "DJI",
+          "name": "Djibouti",
+          "emissionsQuantity": 2171568.9848386236
+        },
+        {
+          "country": "BTN",
+          "name": "Bhutan",
+          "emissionsQuantity": 2086815.772868209
+        },
+        {
+          "country": "SWZ",
+          "name": "Eswatini",
+          "emissionsQuantity": 1819943.6346031001
+        },
+        {
+          "country": "MAC",
+          "name": "China, Macao Special Administrative Region",
+          "emissionsQuantity": 1781587.975706313
+        },
+        {
+          "country": "ABW",
+          "name": "Aruba",
+          "emissionsQuantity": 1604446.520488908
+        },
+        {
+          "country": "FRO",
+          "name": "Faroe Islands",
+          "emissionsQuantity": 1564898.858983718
+        },
+        {
+          "country": "CPV",
+          "name": "Cabo Verde",
+          "emissionsQuantity": 1430952.3198318102
+        },
+        {
+          "country": "SYC",
+          "name": "Seychelles",
+          "emissionsQuantity": 1387915.2668587745
+        },
+        {
+          "country": "TLS",
+          "name": "Timor-Leste",
+          "emissionsQuantity": 1261683.0035559104
+        },
+        {
+          "country": "BLZ",
+          "name": "Belize",
+          "emissionsQuantity": 1252711.2839573205
+        },
+        {
+          "country": "GRL",
+          "name": "Greenland",
+          "emissionsQuantity": 1248692.4862542185
+        },
+        {
+          "country": "VIR",
+          "name": "United States Virgin Islands",
+          "emissionsQuantity": 1238638.4116923397
+        },
+        {
+          "country": "GNB",
+          "name": "Guinea-Bissau",
+          "emissionsQuantity": 1216914.7239383853
+        },
+        {
+          "country": "BES",
+          "name": "Bonaire, Sint Eustatius and Saba",
+          "emissionsQuantity": 1137276.9632280755
+        },
+        {
+          "country": "BMU",
+          "name": "Bermuda",
+          "emissionsQuantity": 1081650.638247504
+        },
+        {
+          "country": "CYM",
+          "name": "Cayman Islands",
+          "emissionsQuantity": 1079430.7980956857
+        },
+        {
+          "country": "JEY",
+          "name": "Jersey",
+          "emissionsQuantity": 1067541.2673675371
+        },
+        {
+          "country": "ESH",
+          "name": "Western Sahara",
+          "emissionsQuantity": 1064579.5398195237
+        },
+        {
+          "country": "ATG",
+          "name": "Antigua and Barbuda",
+          "emissionsQuantity": 982035.2728166673
+        },
+        {
+          "country": "GUF",
+          "name": "French Guiana",
+          "emissionsQuantity": 959917.0037177599
+        },
+        {
+          "country": "GGY",
+          "name": "Guernsey",
+          "emissionsQuantity": 908827.1810449511
+        },
+        {
+          "country": "LCA",
+          "name": "Saint Lucia",
+          "emissionsQuantity": 888966.9411633146
+        },
+        {
+          "country": "GIB",
+          "name": "Gibraltar",
+          "emissionsQuantity": 831123.0826545628
+        },
+        {
+          "country": "IMN",
+          "name": "Isle of Man",
+          "emissionsQuantity": 806461.3913059878
+        },
+        {
+          "country": "SXM",
+          "name": "Sint Maarten (Dutch part)",
+          "emissionsQuantity": 741693.9104497326
+        },
+        {
+          "country": "PLW",
+          "name": "Palau",
+          "emissionsQuantity": 716171.8193879079
+        },
+        {
+          "country": "TCA",
+          "name": "Turks and Caicos Islands",
+          "emissionsQuantity": 680037.8701791407
+        },
+        {
+          "country": "MYT",
+          "name": "Mayotte",
+          "emissionsQuantity": 670113.4626578833
+        },
+        {
+          "country": "MNP",
+          "name": "Northern Mariana Islands",
+          "emissionsQuantity": 654101.0315007103
+        },
+        {
+          "country": "GRD",
+          "name": "Grenada",
+          "emissionsQuantity": 634610.4484610124
+        },
+        {
+          "country": "SLB",
+          "name": "Solomon Islands",
+          "emissionsQuantity": 574998.7028683682
+        },
+        {
+          "country": "KNA",
+          "name": "Saint Kitts and Nevis",
+          "emissionsQuantity": 517527.6328225255
+        },
+        {
+          "country": "VGB",
+          "name": "British Virgin Islands",
+          "emissionsQuantity": 483097.47340153944
+        },
+        {
+          "country": "WSM",
+          "name": "Samoa",
+          "emissionsQuantity": 479571.9508878804
+        },
+        {
+          "country": "VUT",
+          "name": "Vanuatu",
+          "emissionsQuantity": 479565.6620852425
+        },
+        {
+          "country": "MAF",
+          "name": "Saint Martin (French Part)",
+          "emissionsQuantity": 472910.2105985285
+        },
+        {
+          "country": "COM",
+          "name": "Comoros",
+          "emissionsQuantity": 462605.4494811534
+        },
+        {
+          "country": "VCT",
+          "name": "Saint Vincent and the Grenadines",
+          "emissionsQuantity": 417871.69579655054
+        },
+        {
+          "country": "MHL",
+          "name": "Marshall Islands",
+          "emissionsQuantity": 416947.6232856075
+        },
+        {
+          "country": "SJM",
+          "name": "Svalbard and Jan Mayen Islands",
+          "emissionsQuantity": 398041.11746822356
+        },
+        {
+          "country": "ATA",
+          "name": "Antarctica",
+          "emissionsQuantity": 389128.58508427883
+        },
+        {
+          "country": "FSM",
+          "name": "Micronesia (Federated States of)",
+          "emissionsQuantity": 374511.35712768807
+        },
+        {
+          "country": "ASM",
+          "name": "American Samoa",
+          "emissionsQuantity": 372418.28704139125
+        },
+        {
+          "country": "ALA",
+          "name": "\u00c5land Islands",
+          "emissionsQuantity": 371503.12614801875
+        },
+        {
+          "country": "TON",
+          "name": "Tonga",
+          "emissionsQuantity": 346824.1840750059
+        },
+        {
+          "country": "KIR",
+          "name": "Kiribati",
+          "emissionsQuantity": 312762.2591461142
+        },
+        {
+          "country": "DMA",
+          "name": "Dominica",
+          "emissionsQuantity": 298577.0364289964
+        },
+        {
+          "country": "STP",
+          "name": "Sao Tome and Principe",
+          "emissionsQuantity": 236631.63148884973
+        },
+        {
+          "country": "AND",
+          "name": "Andorra",
+          "emissionsQuantity": 231757.16605918403
+        },
+        {
+          "country": "AIA",
+          "name": "Anguilla",
+          "emissionsQuantity": 162177.2176907004
+        },
+        {
+          "country": "COK",
+          "name": "Cook Islands",
+          "emissionsQuantity": 148449.52303513893
+        },
+        {
+          "country": "MCO",
+          "name": "Monaco",
+          "emissionsQuantity": 146612.0233672943
+        },
+        {
+          "country": "IOT",
+          "name": "British Indian Ocean Territory",
+          "emissionsQuantity": 122159.01763707728
+        },
+        {
+          "country": "LIE",
+          "name": "Liechtenstein",
+          "emissionsQuantity": 106744.90000699776
+        },
+        {
+          "country": "SPM",
+          "name": "Saint Pierre and Miquelon",
+          "emissionsQuantity": 105241.59924655655
+        },
+        {
+          "country": "BLM",
+          "name": "Saint Barth\u00e9lemy",
+          "emissionsQuantity": 91071.09637825337
+        },
+        {
+          "country": "SGS",
+          "name": "South Georgia and the South Sandwich Islands",
+          "emissionsQuantity": 73416.98384935726
+        },
+        {
+          "country": "SMR",
+          "name": "San Marino",
+          "emissionsQuantity": 68454.01164250748
+        },
+        {
+          "country": "NRU",
+          "name": "Nauru",
+          "emissionsQuantity": 62339.56790446496
+        },
+        {
+          "country": "TUV",
+          "name": "Tuvalu",
+          "emissionsQuantity": 62236.30994982796
+        },
+        {
+          "country": "SHN",
+          "name": "Saint Helena",
+          "emissionsQuantity": 53102.53163690917
+        },
+        {
+          "country": "WLF",
+          "name": "Wallis and Futuna Islands",
+          "emissionsQuantity": 42957.22346256578
+        },
+        {
+          "country": "MSR",
+          "name": "Montserrat",
+          "emissionsQuantity": 32041.86149317476
+        },
+        {
+          "country": "CXR",
+          "name": "Christmas Island",
+          "emissionsQuantity": 28246.32531120994
+        },
+        {
+          "country": "VAT",
+          "name": "Holy See",
+          "emissionsQuantity": 24689.866954411133
+        },
+        {
+          "country": "NIU",
+          "name": "Niue",
+          "emissionsQuantity": 19192.23662734434
+        },
+        {
+          "country": "NFK",
+          "name": "Norfolk Island",
+          "emissionsQuantity": 15198.540826091212
+        },
+        {
+          "country": "PCN",
+          "name": "Pitcairn",
+          "emissionsQuantity": 4351.348693309258
+        },
+        {
+          "country": "CCK",
+          "name": "Cocos (Keeling) Islands",
+          "emissionsQuantity": 4128.298040810507
+        },
+        {
+          "country": "UMI",
+          "name": "United States Minor Outlying Islands",
+          "emissionsQuantity": 3430.0257439084253
+        },
+        {
+          "country": "TKL",
+          "name": "Tokelau",
+          "emissionsQuantity": 1196.3321236553313
+        },
+        {
+          "country": "ATF",
+          "name": "French Southern Territories",
+          "emissionsQuantity": 588.9128673468775
+        },
+        {
+          "country": "HMD",
+          "name": "Heard Island and McDonald Islands",
+          "emissionsQuantity": 0
+        },
+        {
+          "country": "BVT",
+          "name": "Bouvet Island",
+          "emissionsQuantity": 0
+        }
+      ]
+    },
+    "2024": {
+      "url": "https://api.climatetrace.org/v7/rankings/countries?start=2024&end=2024&gas=co2&sectors=all_no_forest",
+      "totals": {
+        "gas": "co2",
+        "emissionsQuantity": 43288098991.43752,
+        "start": "2024-01-01",
+        "end": "2024-12-31"
+      },
+      "countries": [
+        {
+          "country": "CHN",
+          "name": "China",
+          "emissionsQuantity": 14048348310.605026
+        },
+        {
+          "country": "USA",
+          "name": "United States of America",
+          "emissionsQuantity": 5266194319.85599
+        },
+        {
+          "country": "IND",
+          "name": "India",
+          "emissionsQuantity": 3045470903.8322372
+        },
+        {
+          "country": "RUS",
+          "name": "Russian Federation",
+          "emissionsQuantity": 2163958568.206704
+        },
+        {
+          "country": "JPN",
+          "name": "Japan",
+          "emissionsQuantity": 1193387304.2576003
+        },
+        {
+          "country": "IDN",
+          "name": "Indonesia",
+          "emissionsQuantity": 1070753505.8767072
+        },
+        {
+          "country": "IRN",
+          "name": "Iran (Islamic Republic of)",
+          "emissionsQuantity": 891764299.7982061
+        },
+        {
+          "country": "SAU",
+          "name": "Saudi Arabia",
+          "emissionsQuantity": 760159243.5448995
+        },
+        {
+          "country": "CAN",
+          "name": "Canada",
+          "emissionsQuantity": 650789611.5873055
+        },
+        {
+          "country": "KOR",
+          "name": "Republic of Korea",
+          "emissionsQuantity": 642966630.4950875
+        },
+        {
+          "country": "DEU",
+          "name": "Germany",
+          "emissionsQuantity": 624620462.5851028
+        },
+        {
+          "country": "BRA",
+          "name": "Brazil",
+          "emissionsQuantity": 616231548.3302512
+        },
+        {
+          "country": "MEX",
+          "name": "Mexico",
+          "emissionsQuantity": 538376175.3728585
+        },
+        {
+          "country": "AUS",
+          "name": "Australia",
+          "emissionsQuantity": 519756956.6986259
+        },
+        {
+          "country": "TUR",
+          "name": "Turkey",
+          "emissionsQuantity": 499338424.51728725
+        },
+        {
+          "country": "ZAF",
+          "name": "South Africa",
+          "emissionsQuantity": 434066259.4006142
+        },
+        {
+          "country": "VNM",
+          "name": "Viet Nam",
+          "emissionsQuantity": 363938956.6700165
+        },
+        {
+          "country": "GBR",
+          "name": "United Kingdom of Great Britain and Northern Ireland",
+          "emissionsQuantity": 350449089.51953125
+        },
+        {
+          "country": "UNK",
+          "name": "Unknown",
+          "emissionsQuantity": 341580002.2505343
+        },
+        {
+          "country": "MYS",
+          "name": "Malaysia",
+          "emissionsQuantity": 339395250.4967713
+        },
+        {
+          "country": "ARE",
+          "name": "United Arab Emirates",
+          "emissionsQuantity": 310332288.5982661
+        },
+        {
+          "country": "FRA",
+          "name": "France",
+          "emissionsQuantity": 308511840.13648844
+        },
+        {
+          "country": "EGY",
+          "name": "Egypt",
+          "emissionsQuantity": 303535068.83004963
+        },
+        {
+          "country": "POL",
+          "name": "Poland",
+          "emissionsQuantity": 302049019.91897047
+        },
+        {
+          "country": "ITA",
+          "name": "Italy",
+          "emissionsQuantity": 290631200.74608314
+        },
+        {
+          "country": "KAZ",
+          "name": "Kazakhstan",
+          "emissionsQuantity": 284299584.6161995
+        },
+        {
+          "country": "TWN",
+          "name": "Taiwan",
+          "emissionsQuantity": 282844266.98670673
+        },
+        {
+          "country": "THA",
+          "name": "Thailand",
+          "emissionsQuantity": 280738384.6547644
+        },
+        {
+          "country": "IRQ",
+          "name": "Iraq",
+          "emissionsQuantity": 276305930.08680516
+        },
+        {
+          "country": "DZA",
+          "name": "Algeria",
+          "emissionsQuantity": 264735623.2880568
+        },
+        {
+          "country": "ESP",
+          "name": "Spain",
+          "emissionsQuantity": 243742382.53179982
+        },
+        {
+          "country": "ARG",
+          "name": "Argentina",
+          "emissionsQuantity": 232992328.04446158
+        },
+        {
+          "country": "PAK",
+          "name": "Pakistan",
+          "emissionsQuantity": 207624797.56456667
+        },
+        {
+          "country": "NLD",
+          "name": "Netherlands",
+          "emissionsQuantity": 170820843.02104604
+        },
+        {
+          "country": "UKR",
+          "name": "Ukraine",
+          "emissionsQuantity": 170157130.51784125
+        },
+        {
+          "country": "PHL",
+          "name": "Philippines",
+          "emissionsQuantity": 168712135.6463871
+        },
+        {
+          "country": "QAT",
+          "name": "Qatar",
+          "emissionsQuantity": 164075035.21830946
+        },
+        {
+          "country": "UZB",
+          "name": "Uzbekistan",
+          "emissionsQuantity": 161631996.86752227
+        },
+        {
+          "country": "NGA",
+          "name": "Nigeria",
+          "emissionsQuantity": 153872710.3063287
+        },
+        {
+          "country": "BGD",
+          "name": "Bangladesh",
+          "emissionsQuantity": 150039202.6614247
+        },
+        {
+          "country": "KWT",
+          "name": "Kuwait",
+          "emissionsQuantity": 132503621.17370135
+        },
+        {
+          "country": "OMN",
+          "name": "Oman",
+          "emissionsQuantity": 130721373.62040576
+        },
+        {
+          "country": "VEN",
+          "name": "Venezuela (Bolivarian Republic of)",
+          "emissionsQuantity": 122811182.66426374
+        },
+        {
+          "country": "BLR",
+          "name": "Belarus",
+          "emissionsQuantity": 103029083.4121951
+        },
+        {
+          "country": "SGP",
+          "name": "Singapore",
+          "emissionsQuantity": 100117718.2084459
+        },
+        {
+          "country": "TKM",
+          "name": "Turkmenistan",
+          "emissionsQuantity": 99660950.54717736
+        },
+        {
+          "country": "COL",
+          "name": "Colombia",
+          "emissionsQuantity": 98116301.03475289
+        },
+        {
+          "country": "BEL",
+          "name": "Belgium",
+          "emissionsQuantity": 96912651.83356117
+        },
+        {
+          "country": "CHL",
+          "name": "Chile",
+          "emissionsQuantity": 95194737.94230889
+        },
+        {
+          "country": "NOR",
+          "name": "Norway",
+          "emissionsQuantity": 90248062.9429284
+        },
+        {
+          "country": "LBY",
+          "name": "Libya",
+          "emissionsQuantity": 86565427.5324098
+        },
+        {
+          "country": "MAR",
+          "name": "Morocco",
+          "emissionsQuantity": 81687445.24242948
+        },
+        {
+          "country": "CZE",
+          "name": "Czechia",
+          "emissionsQuantity": 79804492.21282713
+        },
+        {
+          "country": "ROU",
+          "name": "Romania",
+          "emissionsQuantity": 78843383.8527515
+        },
+        {
+          "country": "PRK",
+          "name": "Democratic People's Republic of Korea",
+          "emissionsQuantity": 77442025.19575304
+        },
+        {
+          "country": "PER",
+          "name": "Peru",
+          "emissionsQuantity": 76015825.47455208
+        },
+        {
+          "country": "ISR",
+          "name": "Israel",
+          "emissionsQuantity": 74975935.09904014
+        },
+        {
+          "country": "GRC",
+          "name": "Greece",
+          "emissionsQuantity": 72389775.82820043
+        },
+        {
+          "country": "MNG",
+          "name": "Mongolia",
+          "emissionsQuantity": 59495983.465415135
+        },
+        {
+          "country": "SWE",
+          "name": "Sweden",
+          "emissionsQuantity": 58535195.52630028
+        },
+        {
+          "country": "AZE",
+          "name": "Azerbaijan",
+          "emissionsQuantity": 57458466.05310127
+        },
+        {
+          "country": "FIN",
+          "name": "Finland",
+          "emissionsQuantity": 56182912.68598247
+        },
+        {
+          "country": "AUT",
+          "name": "Austria",
+          "emissionsQuantity": 54692729.00023697
+        },
+        {
+          "country": "PRT",
+          "name": "Portugal",
+          "emissionsQuantity": 53701919.10627479
+        },
+        {
+          "country": "ECU",
+          "name": "Ecuador",
+          "emissionsQuantity": 50934550.323214166
+        },
+        {
+          "country": "HUN",
+          "name": "Hungary",
+          "emissionsQuantity": 50591622.45361547
+        },
+        {
+          "country": "MMR",
+          "name": "Myanmar",
+          "emissionsQuantity": 50041092.87807715
+        },
+        {
+          "country": "HKG",
+          "name": "China, Hong Kong Special Administrative Region",
+          "emissionsQuantity": 49756977.70757423
+        },
+        {
+          "country": "IRL",
+          "name": "Ireland",
+          "emissionsQuantity": 49481162.95069667
+        },
+        {
+          "country": "SRB",
+          "name": "Serbia",
+          "emissionsQuantity": 47540718.14751705
+        },
+        {
+          "country": "AGO",
+          "name": "Angola",
+          "emissionsQuantity": 47320097.25158008
+        },
+        {
+          "country": "ETH",
+          "name": "Ethiopia",
+          "emissionsQuantity": 45983218.007106125
+        },
+        {
+          "country": "NZL",
+          "name": "New Zealand",
+          "emissionsQuantity": 45408278.976699136
+        },
+        {
+          "country": "TUN",
+          "name": "Tunisia",
+          "emissionsQuantity": 44798329.81415155
+        },
+        {
+          "country": "TZA",
+          "name": "United Republic of Tanzania",
+          "emissionsQuantity": 44612113.49935234
+        },
+        {
+          "country": "BHR",
+          "name": "Bahrain",
+          "emissionsQuantity": 43948431.92305715
+        },
+        {
+          "country": "SYR",
+          "name": "Syrian Arab Republic",
+          "emissionsQuantity": 42003295.88873114
+        },
+        {
+          "country": "BOL",
+          "name": "Bolivia (Plurinational State of)",
+          "emissionsQuantity": 41895918.94324239
+        },
+        {
+          "country": "GHA",
+          "name": "Ghana",
+          "emissionsQuantity": 39061705.5183868
+        },
+        {
+          "country": "BGR",
+          "name": "Bulgaria",
+          "emissionsQuantity": 36896061.10132432
+        },
+        {
+          "country": "SDN",
+          "name": "Sudan",
+          "emissionsQuantity": 35223198.12988259
+        },
+        {
+          "country": "ZMB",
+          "name": "Zambia",
+          "emissionsQuantity": 35073635.33181021
+        },
+        {
+          "country": "CHE",
+          "name": "Switzerland",
+          "emissionsQuantity": 34723016.64807738
+        },
+        {
+          "country": "PNG",
+          "name": "Papua New Guinea",
+          "emissionsQuantity": 34620637.2941687
+        },
+        {
+          "country": "KEN",
+          "name": "Kenya",
+          "emissionsQuantity": 34315512.52942537
+        },
+        {
+          "country": "DNK",
+          "name": "Denmark",
+          "emissionsQuantity": 34187652.42355529
+        },
+        {
+          "country": "DOM",
+          "name": "Dominican Republic",
+          "emissionsQuantity": 33565657.033484
+        },
+        {
+          "country": "COD",
+          "name": "Democratic Republic of the Congo",
+          "emissionsQuantity": 33184528.68709221
+        },
+        {
+          "country": "CUB",
+          "name": "Cuba",
+          "emissionsQuantity": 31214453.850385327
+        },
+        {
+          "country": "TTO",
+          "name": "Trinidad and Tobago",
+          "emissionsQuantity": 30567125.32871312
+        },
+        {
+          "country": "SEN",
+          "name": "Senegal",
+          "emissionsQuantity": 29341685.920182582
+        },
+        {
+          "country": "PRI",
+          "name": "Puerto Rico",
+          "emissionsQuantity": 28955125.648292076
+        },
+        {
+          "country": "CIV",
+          "name": "C\u00f4te d'Ivoire",
+          "emissionsQuantity": 28706652.259424448
+        },
+        {
+          "country": "SVK",
+          "name": "Slovakia",
+          "emissionsQuantity": 28047114.90105497
+        },
+        {
+          "country": "JOR",
+          "name": "Jordan",
+          "emissionsQuantity": 28016654.759940337
+        },
+        {
+          "country": "LKA",
+          "name": "Sri Lanka",
+          "emissionsQuantity": 27746093.727373127
+        },
+        {
+          "country": "LAO",
+          "name": "Lao People's Democratic Republic",
+          "emissionsQuantity": 26624614.05050156
+        },
+        {
+          "country": "MOZ",
+          "name": "Mozambique",
+          "emissionsQuantity": 24325149.39497279
+        },
+        {
+          "country": "KHM",
+          "name": "Cambodia",
+          "emissionsQuantity": 23669553.812785324
+        },
+        {
+          "country": "CMR",
+          "name": "Cameroon",
+          "emissionsQuantity": 23173246.756268006
+        },
+        {
+          "country": "LTU",
+          "name": "Lithuania",
+          "emissionsQuantity": 22732697.499730546
+        },
+        {
+          "country": "BIH",
+          "name": "Bosnia and Herzegovina",
+          "emissionsQuantity": 22326619.096863434
+        },
+        {
+          "country": "UGA",
+          "name": "Uganda",
+          "emissionsQuantity": 21658702.65413947
+        },
+        {
+          "country": "MLI",
+          "name": "Mali",
+          "emissionsQuantity": 21259040.570142604
+        },
+        {
+          "country": "AFG",
+          "name": "Afghanistan",
+          "emissionsQuantity": 21159104.81908632
+        },
+        {
+          "country": "ZWE",
+          "name": "Zimbabwe",
+          "emissionsQuantity": 20868472.351497892
+        },
+        {
+          "country": "GTM",
+          "name": "Guatemala",
+          "emissionsQuantity": 20636954.961340573
+        },
+        {
+          "country": "HRV",
+          "name": "Croatia",
+          "emissionsQuantity": 20306604.662792675
+        },
+        {
+          "country": "PAN",
+          "name": "Panama",
+          "emissionsQuantity": 20220705.56842489
+        },
+        {
+          "country": "NPL",
+          "name": "Nepal",
+          "emissionsQuantity": 20147896.528411545
+        },
+        {
+          "country": "YEM",
+          "name": "Yemen",
+          "emissionsQuantity": 19676451.203885306
+        },
+        {
+          "country": "TJK",
+          "name": "Tajikistan",
+          "emissionsQuantity": 18250768.909372527
+        },
+        {
+          "country": "EST",
+          "name": "Estonia",
+          "emissionsQuantity": 17996987.27217524
+        },
+        {
+          "country": "KGZ",
+          "name": "Kyrgyzstan",
+          "emissionsQuantity": 17180149.74000396
+        },
+        {
+          "country": "COG",
+          "name": "Congo",
+          "emissionsQuantity": 16941554.29619967
+        },
+        {
+          "country": "GEO",
+          "name": "Georgia",
+          "emissionsQuantity": 16363963.517541105
+        },
+        {
+          "country": "GIN",
+          "name": "Guinea",
+          "emissionsQuantity": 15955109.072715582
+        },
+        {
+          "country": "LVA",
+          "name": "Latvia",
+          "emissionsQuantity": 14216275.21976655
+        },
+        {
+          "country": "SSD",
+          "name": "South Sudan",
+          "emissionsQuantity": 13687136.546972621
+        },
+        {
+          "country": "MDG",
+          "name": "Madagascar",
+          "emissionsQuantity": 13478760.62526358
+        },
+        {
+          "country": "HND",
+          "name": "Honduras",
+          "emissionsQuantity": 13245901.902097525
+        },
+        {
+          "country": "BWA",
+          "name": "Botswana",
+          "emissionsQuantity": 13047541.471217465
+        },
+        {
+          "country": "MDA",
+          "name": "Republic of Moldova",
+          "emissionsQuantity": 12854817.7004824
+        },
+        {
+          "country": "SVN",
+          "name": "Slovenia",
+          "emissionsQuantity": 12640838.920607492
+        },
+        {
+          "country": "GUY",
+          "name": "Guyana",
+          "emissionsQuantity": 12553497.708884027
+        },
+        {
+          "country": "LBN",
+          "name": "Lebanon",
+          "emissionsQuantity": 12371616.251657747
+        },
+        {
+          "country": "JAM",
+          "name": "Jamaica",
+          "emissionsQuantity": 12267839.485656288
+        },
+        {
+          "country": "BRN",
+          "name": "Brunei Darussalam",
+          "emissionsQuantity": 11017379.727460919
+        },
+        {
+          "country": "MRT",
+          "name": "Mauritania",
+          "emissionsQuantity": 10705075.853289444
+        },
+        {
+          "country": "XKX",
+          "name": "Kosovo",
+          "emissionsQuantity": 10655529.864443004
+        },
+        {
+          "country": "URY",
+          "name": "Uruguay",
+          "emissionsQuantity": 10437868.882978085
+        },
+        {
+          "country": "ARM",
+          "name": "Armenia",
+          "emissionsQuantity": 10283436.336888395
+        },
+        {
+          "country": "NER",
+          "name": "Niger",
+          "emissionsQuantity": 9938536.028615195
+        },
+        {
+          "country": "NAM",
+          "name": "Namibia",
+          "emissionsQuantity": 9881894.250268271
+        },
+        {
+          "country": "SLV",
+          "name": "El Salvador",
+          "emissionsQuantity": 9502546.809078332
+        },
+        {
+          "country": "TCD",
+          "name": "Chad",
+          "emissionsQuantity": 9422702.165679038
+        },
+        {
+          "country": "CRI",
+          "name": "Costa Rica",
+          "emissionsQuantity": 9094265.72154181
+        },
+        {
+          "country": "CYP",
+          "name": "Cyprus",
+          "emissionsQuantity": 8959720.510127535
+        },
+        {
+          "country": "BFA",
+          "name": "Burkina Faso",
+          "emissionsQuantity": 8770227.00440579
+        },
+        {
+          "country": "PRY",
+          "name": "Paraguay",
+          "emissionsQuantity": 8638524.204268832
+        },
+        {
+          "country": "NIC",
+          "name": "Nicaragua",
+          "emissionsQuantity": 8398685.228950975
+        },
+        {
+          "country": "GAB",
+          "name": "Gabon",
+          "emissionsQuantity": 8333250.966644208
+        },
+        {
+          "country": "BEN",
+          "name": "Benin",
+          "emissionsQuantity": 8043131.17656965
+        },
+        {
+          "country": "SOM",
+          "name": "Somalia",
+          "emissionsQuantity": 7743433.532106297
+        },
+        {
+          "country": "ISL",
+          "name": "Iceland",
+          "emissionsQuantity": 7730580.859255501
+        },
+        {
+          "country": "ALB",
+          "name": "Albania",
+          "emissionsQuantity": 7565668.197578527
+        },
+        {
+          "country": "MWI",
+          "name": "Malawi",
+          "emissionsQuantity": 7543403.881498357
+        },
+        {
+          "country": "MKD",
+          "name": "The former Yugoslav Republic of Macedonia",
+          "emissionsQuantity": 7515973.239850422
+        },
+        {
+          "country": "BHS",
+          "name": "Bahamas",
+          "emissionsQuantity": 7187722.78173291
+        },
+        {
+          "country": "MUS",
+          "name": "Mauritius",
+          "emissionsQuantity": 6839135.8523661215
+        },
+        {
+          "country": "RWA",
+          "name": "Rwanda",
+          "emissionsQuantity": 6815760.122363182
+        },
+        {
+          "country": "REU",
+          "name": "R\u00e9union",
+          "emissionsQuantity": 6810522.718402578
+        },
+        {
+          "country": "GNQ",
+          "name": "Equatorial Guinea",
+          "emissionsQuantity": 6411016.5121414345
+        },
+        {
+          "country": "FLK",
+          "name": "Falkland Islands (Malvinas)",
+          "emissionsQuantity": 5881068.687546108
+        },
+        {
+          "country": "NCL",
+          "name": "New Caledonia",
+          "emissionsQuantity": 5829345.374852962
+        },
+        {
+          "country": "BDI",
+          "name": "Burundi",
+          "emissionsQuantity": 5578191.605645943
+        },
+        {
+          "country": "TGO",
+          "name": "Togo",
+          "emissionsQuantity": 5564246.306532723
+        },
+        {
+          "country": "LUX",
+          "name": "Luxembourg",
+          "emissionsQuantity": 5452605.203368497
+        },
+        {
+          "country": "PSE",
+          "name": "State of Palestine",
+          "emissionsQuantity": 5285533.856641429
+        },
+        {
+          "country": "HTI",
+          "name": "Haiti",
+          "emissionsQuantity": 4290057.487820755
+        },
+        {
+          "country": "MLT",
+          "name": "Malta",
+          "emissionsQuantity": 4157916.138495446
+        },
+        {
+          "country": "SUR",
+          "name": "Suriname",
+          "emissionsQuantity": 3923797.4625320924
+        },
+        {
+          "country": "ERI",
+          "name": "Eritrea",
+          "emissionsQuantity": 3806111.059328726
+        },
+        {
+          "country": "SLE",
+          "name": "Sierra Leone",
+          "emissionsQuantity": 3687479.002310937
+        },
+        {
+          "country": "MNE",
+          "name": "Montenegro",
+          "emissionsQuantity": 3551769.461668054
+        },
+        {
+          "country": "MTQ",
+          "name": "Martinique",
+          "emissionsQuantity": 3219547.740573841
+        },
+        {
+          "country": "LBR",
+          "name": "Liberia",
+          "emissionsQuantity": 3141152.8578465623
+        },
+        {
+          "country": "LSO",
+          "name": "Lesotho",
+          "emissionsQuantity": 3138191.708685351
+        },
+        {
+          "country": "GLP",
+          "name": "Guadeloupe",
+          "emissionsQuantity": 3057907.733576161
+        },
+        {
+          "country": "ZNC",
+          "name": "Turkish Republic of Northern Cyprus",
+          "emissionsQuantity": 2962806.2085661897
+        },
+        {
+          "country": "FJI",
+          "name": "Fiji",
+          "emissionsQuantity": 2882523.5397902317
+        },
+        {
+          "country": "CUW",
+          "name": "Cura\u00e7ao",
+          "emissionsQuantity": 2786147.414014775
+        },
+        {
+          "country": "PYF",
+          "name": "French Polynesia",
+          "emissionsQuantity": 2644123.5711337747
+        },
+        {
+          "country": "GUM",
+          "name": "Guam",
+          "emissionsQuantity": 2579598.6323132133
+        },
+        {
+          "country": "GMB",
+          "name": "Gambia",
+          "emissionsQuantity": 2480633.86118502
+        },
+        {
+          "country": "MDV",
+          "name": "Maldives",
+          "emissionsQuantity": 2441349.3740466554
+        },
+        {
+          "country": "BRB",
+          "name": "Barbados",
+          "emissionsQuantity": 2428100.7128208103
+        },
+        {
+          "country": "MAC",
+          "name": "China, Macao Special Administrative Region",
+          "emissionsQuantity": 2218336.1103223343
+        },
+        {
+          "country": "CAF",
+          "name": "Central African Republic",
+          "emissionsQuantity": 2155711.226954349
+        },
+        {
+          "country": "DJI",
+          "name": "Djibouti",
+          "emissionsQuantity": 2071701.6278339252
+        },
+        {
+          "country": "BTN",
+          "name": "Bhutan",
+          "emissionsQuantity": 2046738.722730406
+        },
+        {
+          "country": "SWZ",
+          "name": "Eswatini",
+          "emissionsQuantity": 1876811.8855655354
+        },
+        {
+          "country": "ABW",
+          "name": "Aruba",
+          "emissionsQuantity": 1699308.8949692533
+        },
+        {
+          "country": "CPV",
+          "name": "Cabo Verde",
+          "emissionsQuantity": 1606168.3580827925
+        },
+        {
+          "country": "FRO",
+          "name": "Faroe Islands",
+          "emissionsQuantity": 1495043.9947944474
+        },
+        {
+          "country": "SYC",
+          "name": "Seychelles",
+          "emissionsQuantity": 1386657.6725399084
+        },
+        {
+          "country": "GRL",
+          "name": "Greenland",
+          "emissionsQuantity": 1334731.2131869243
+        },
+        {
+          "country": "BLZ",
+          "name": "Belize",
+          "emissionsQuantity": 1314091.9796775596
+        },
+        {
+          "country": "GNB",
+          "name": "Guinea-Bissau",
+          "emissionsQuantity": 1268993.711791103
+        },
+        {
+          "country": "VIR",
+          "name": "United States Virgin Islands",
+          "emissionsQuantity": 1251971.0056482463
+        },
+        {
+          "country": "BMU",
+          "name": "Bermuda",
+          "emissionsQuantity": 1155794.1939781809
+        },
+        {
+          "country": "BES",
+          "name": "Bonaire, Sint Eustatius and Saba",
+          "emissionsQuantity": 1133328.8124213214
+        },
+        {
+          "country": "CYM",
+          "name": "Cayman Islands",
+          "emissionsQuantity": 1104314.1584438323
+        },
+        {
+          "country": "ESH",
+          "name": "Western Sahara",
+          "emissionsQuantity": 1061113.9711959383
+        },
+        {
+          "country": "JEY",
+          "name": "Jersey",
+          "emissionsQuantity": 1052191.4926376978
+        },
+        {
+          "country": "ATG",
+          "name": "Antigua and Barbuda",
+          "emissionsQuantity": 1015189.4348879734
+        },
+        {
+          "country": "GUF",
+          "name": "French Guiana",
+          "emissionsQuantity": 961610.0446696056
+        },
+        {
+          "country": "LCA",
+          "name": "Saint Lucia",
+          "emissionsQuantity": 934014.8120037764
+        },
+        {
+          "country": "GGY",
+          "name": "Guernsey",
+          "emissionsQuantity": 902879.5736314796
+        },
+        {
+          "country": "TLS",
+          "name": "Timor-Leste",
+          "emissionsQuantity": 900674.9843733491
+        },
+        {
+          "country": "IMN",
+          "name": "Isle of Man",
+          "emissionsQuantity": 810543.403978536
+        },
+        {
+          "country": "GIB",
+          "name": "Gibraltar",
+          "emissionsQuantity": 798609.1682226935
+        },
+        {
+          "country": "PLW",
+          "name": "Palau",
+          "emissionsQuantity": 771131.6417732321
+        },
+        {
+          "country": "SXM",
+          "name": "Sint Maarten (Dutch part)",
+          "emissionsQuantity": 753287.1544070276
+        },
+        {
+          "country": "TCA",
+          "name": "Turks and Caicos Islands",
+          "emissionsQuantity": 745718.8051995102
+        },
+        {
+          "country": "MYT",
+          "name": "Mayotte",
+          "emissionsQuantity": 675367.0034726954
+        },
+        {
+          "country": "MNP",
+          "name": "Northern Mariana Islands",
+          "emissionsQuantity": 656252.5588808572
+        },
+        {
+          "country": "GRD",
+          "name": "Grenada",
+          "emissionsQuantity": 623659.1425257624
+        },
+        {
+          "country": "SLB",
+          "name": "Solomon Islands",
+          "emissionsQuantity": 609068.3863765653
+        },
+        {
+          "country": "VGB",
+          "name": "British Virgin Islands",
+          "emissionsQuantity": 573045.9124196104
+        },
+        {
+          "country": "VUT",
+          "name": "Vanuatu",
+          "emissionsQuantity": 505832.73713140975
+        },
+        {
+          "country": "KNA",
+          "name": "Saint Kitts and Nevis",
+          "emissionsQuantity": 504634.63786210463
+        },
+        {
+          "country": "WSM",
+          "name": "Samoa",
+          "emissionsQuantity": 490069.3694339135
+        },
+        {
+          "country": "COM",
+          "name": "Comoros",
+          "emissionsQuantity": 482242.54248988716
+        },
+        {
+          "country": "MAF",
+          "name": "Saint Martin (French Part)",
+          "emissionsQuantity": 474318.7464160431
+        },
+        {
+          "country": "FSM",
+          "name": "Micronesia (Federated States of)",
+          "emissionsQuantity": 465704.5186986335
+        },
+        {
+          "country": "ATA",
+          "name": "Antarctica",
+          "emissionsQuantity": 459569.77758855314
+        },
+        {
+          "country": "VCT",
+          "name": "Saint Vincent and the Grenadines",
+          "emissionsQuantity": 457021.52386054664
+        },
+        {
+          "country": "ALA",
+          "name": "\u00c5land Islands",
+          "emissionsQuantity": 379555.03310522874
+        },
+        {
+          "country": "MHL",
+          "name": "Marshall Islands",
+          "emissionsQuantity": 364005.23121676326
+        },
+        {
+          "country": "TON",
+          "name": "Tonga",
+          "emissionsQuantity": 356388.87106188334
+        },
+        {
+          "country": "SJM",
+          "name": "Svalbard and Jan Mayen Islands",
+          "emissionsQuantity": 351825.141659697
+        },
+        {
+          "country": "ASM",
+          "name": "American Samoa",
+          "emissionsQuantity": 347783.98996967205
+        },
+        {
+          "country": "DMA",
+          "name": "Dominica",
+          "emissionsQuantity": 323378.9640192892
+        },
+        {
+          "country": "KIR",
+          "name": "Kiribati",
+          "emissionsQuantity": 284510.8493033866
+        },
+        {
+          "country": "AND",
+          "name": "Andorra",
+          "emissionsQuantity": 233979.80491851032
+        },
+        {
+          "country": "STP",
+          "name": "Sao Tome and Principe",
+          "emissionsQuantity": 233276.36024151542
+        },
+        {
+          "country": "AIA",
+          "name": "Anguilla",
+          "emissionsQuantity": 165991.64908596422
+        },
+        {
+          "country": "MCO",
+          "name": "Monaco",
+          "emissionsQuantity": 162018.19303498865
+        },
+        {
+          "country": "COK",
+          "name": "Cook Islands",
+          "emissionsQuantity": 161815.97587100204
+        },
+        {
+          "country": "IOT",
+          "name": "British Indian Ocean Territory",
+          "emissionsQuantity": 123566.77335501568
+        },
+        {
+          "country": "SGS",
+          "name": "South Georgia and the South Sandwich Islands",
+          "emissionsQuantity": 119169.58578662855
+        },
+        {
+          "country": "SPM",
+          "name": "Saint Pierre and Miquelon",
+          "emissionsQuantity": 114320.71833854381
+        },
+        {
+          "country": "LIE",
+          "name": "Liechtenstein",
+          "emissionsQuantity": 106558.97511952955
+        },
+        {
+          "country": "BLM",
+          "name": "Saint Barth\u00e9lemy",
+          "emissionsQuantity": 100999.86111113346
+        },
+        {
+          "country": "TUV",
+          "name": "Tuvalu",
+          "emissionsQuantity": 83500.398329665
+        },
+        {
+          "country": "SMR",
+          "name": "San Marino",
+          "emissionsQuantity": 68048.44202818628
+        },
+        {
+          "country": "SHN",
+          "name": "Saint Helena",
+          "emissionsQuantity": 59120.76513257994
+        },
+        {
+          "country": "NRU",
+          "name": "Nauru",
+          "emissionsQuantity": 57037.96928662733
+        },
+        {
+          "country": "WLF",
+          "name": "Wallis and Futuna Islands",
+          "emissionsQuantity": 42981.945252958634
+        },
+        {
+          "country": "MSR",
+          "name": "Montserrat",
+          "emissionsQuantity": 33991.24581593101
+        },
+        {
+          "country": "CXR",
+          "name": "Christmas Island",
+          "emissionsQuantity": 25085.984179737286
+        },
+        {
+          "country": "VAT",
+          "name": "Holy See",
+          "emissionsQuantity": 24719.289333522087
+        },
+        {
+          "country": "NIU",
+          "name": "Niue",
+          "emissionsQuantity": 19139.48541461747
+        },
+        {
+          "country": "NFK",
+          "name": "Norfolk Island",
+          "emissionsQuantity": 16168.503959345111
+        },
+        {
+          "country": "PCN",
+          "name": "Pitcairn",
+          "emissionsQuantity": 5194.992251202593
+        },
+        {
+          "country": "CCK",
+          "name": "Cocos (Keeling) Islands",
+          "emissionsQuantity": 4250.431710098006
+        },
+        {
+          "country": "UMI",
+          "name": "United States Minor Outlying Islands",
+          "emissionsQuantity": 3444.1369170100584
+        },
+        {
+          "country": "TKL",
+          "name": "Tokelau",
+          "emissionsQuantity": 1229.2843791546827
+        },
+        {
+          "country": "ATF",
+          "name": "French Southern Territories",
+          "emissionsQuantity": 594.016370201577
+        },
+        {
+          "country": "HMD",
+          "name": "Heard Island and McDonald Islands",
+          "emissionsQuantity": 0
+        },
+        {
+          "country": "BVT",
+          "name": "Bouvet Island",
+          "emissionsQuantity": 0
+        }
+      ]
+    }
+  }
+}

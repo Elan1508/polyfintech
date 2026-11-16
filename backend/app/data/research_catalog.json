@@ -1,0 +1,1295 @@
+{
+  "reviewed_at": "2026-11-15",
+  "companies": {
+    "dbs": {
+      "name": "DBS Group Holdings",
+      "listing": [
+        "D05",
+        "SGX"
+      ],
+      "overview": "DBS provides an annual sustainability report and separate disclosures on modern slavery and green bonds. These company publications are a starting point for reviewing its sustainability commitments and progress.",
+      "highlights": [
+        {
+          "text": "DBS published its 2025 Sustainability Report on 9 March 2026.",
+          "url": "https://www.dbs.com/sustainability/reports-and-disclosures/sustainability-report"
+        }
+      ],
+      "documents": [
+        {
+          "title": "DBS Sustainability Report 2025",
+          "url": "https://www.dbs.com/iwov-resources/images/sustainability/reporting/pdf/web/DBS_SR2025.pdf",
+          "published_at": "2026-03-09",
+          "publisher": "DBS"
+        }
+      ],
+      "wikidata_id": "Q705417",
+      "wikipedia_title": "DBS Bank",
+      "sti": true,
+      "sector_group": "Banking",
+      "awareness_focus": true
+    },
+    "ocbc": {
+      "name": "OCBC",
+      "listing": [
+        "O39",
+        "SGX"
+      ],
+      "overview": "OCBC makes its 2025 Sustainability Report available through its official reporting library. Its sustainability resources also cover responsible business, community impact and the transition towards net zero.",
+      "highlights": [
+        {
+          "text": "The official reporting library includes the English-language 2025 Sustainability Report and an archive of earlier publications.",
+          "url": "https://www.ocbc.com/group/sustainability/sustainability-reports.page"
+        },
+        {
+          "text": "OCBC reports an S$80 billion committed sustainable finance portfolio in 2025. Its 2025 report uses 2024 financed-emissions data because client emissions reporting takes time.",
+          "url": "https://www.ocbc.com/group/investors/annual-reports/2025-annual-report/sustainability-highlights.page"
+        }
+      ],
+      "documents": [
+        {
+          "title": "OCBC Sustainability Report 2025",
+          "url": "https://www.ocbc.com/iwov-resources/sg/ocbc/gbc/pdf/ocbc-sustainability-report-2025.pdf",
+          "published_at": null,
+          "publisher": "OCBC"
+        },
+        {
+          "title": "OCBC 2025 sustainability highlights",
+          "url": "https://www.ocbc.com/group/investors/annual-reports/2025-annual-report/sustainability-highlights.page",
+          "published_at": null,
+          "publisher": "OCBC",
+          "format": "html"
+        }
+      ],
+      "wikidata_id": "Q2042423",
+      "wikipedia_title": "OCBC Bank",
+      "sti": true,
+      "sector_group": "Banking",
+      "awareness_focus": true
+    },
+    "uob": {
+      "name": "United Overseas Bank",
+      "listing": [
+        "U11",
+        "SGX"
+      ],
+      "overview": "UOB publishes group-level sustainability reporting covering its approach, objectives and performance. The report explains its reporting scope and where individual entities are excluded from particular disclosures.",
+      "highlights": [
+        {
+          "text": "The 2025 Sustainability Report covers 1 January–31 December 2025 and was published on 19 March 2026.",
+          "url": "https://www.uobgroup.com/investor-relations/assets/pdfs/investor/annual/uob-sustainability-report-2025.pdf"
+        }
+      ],
+      "documents": [
+        {
+          "title": "UOB Sustainability Report 2025",
+          "url": "https://www.uobgroup.com/investor-relations/assets/pdfs/investor/annual/uob-sustainability-report-2025.pdf",
+          "published_at": "2026-03-19",
+          "publisher": "UOB"
+        }
+      ],
+      "wikidata_id": "Q2064074",
+      "wikipedia_title": "United Overseas Bank",
+      "sti": true,
+      "sector_group": "Banking",
+      "awareness_focus": true
+    },
+    "singtel": {
+      "name": "Singtel",
+      "listing": [
+        "Z74",
+        "SGX"
+      ],
+      "overview": "Singtel’s sustainability reporting covers environmental management, customers and suppliers, employees, and communities. Its FY2026 disclosures include data privacy, responsible procurement, workforce development and digital inclusion.",
+      "highlights": [
+        {
+          "text": "The FY2026 report covers the year ended 31 March 2026 and was issued on 30 June 2026. Selected disclosures received limited external assurance; that assurance does not cover every statement.",
+          "url": "https://www.singtel.com/about-us/sustainability/sustainability-reports/2026"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Singtel Group Sustainability Report 2026",
+          "url": "https://cdn2.singteldigital.com/content/dam/singtel/investorRelations/annualReports/2026/SR26.pdf",
+          "published_at": "2026-06-30",
+          "publisher": "Singtel"
+        }
+      ],
+      "wikidata_id": "Q864923",
+      "wikipedia_title": "Singtel",
+      "sti": true,
+      "sector_group": "Telecommunications"
+    },
+    "grab": {
+      "name": "Grab Holdings",
+      "listing": [
+        "GRAB",
+        "NASDAQ"
+      ],
+      "overview": "Grab Holdings publishes ESG disclosures about partner livelihoods, platform safety, financial inclusion and environmental impact across its Southeast Asian businesses. These are issuer-reported results and commitments.",
+      "highlights": [
+        {
+          "text": "Grab reports that driver- and merchant-partners earned US$15.3 billion through its platform in 2025, up 19% year on year.",
+          "url": "https://www.grab.com/sg/sustainability/"
+        },
+        {
+          "text": "Its 2025 ESG report discusses access to finance, platform safety and carbon projects. Reported carbon credits should be distinguished from reductions in the company’s own gross emissions.",
+          "url": "https://www.grab.com/th/en/press/others/esgreport2025/"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Grab ESG Report 2025",
+          "url": "https://assets.grab.com/wp-content/uploads/media/si/reports/2025/Grab-ESG-Report-2025.pdf",
+          "published_at": "2026-04-16",
+          "publisher": "Grab Holdings"
+        }
+      ],
+      "wikidata_id": "Q20873932",
+      "wikipedia_title": "Grab Holdings",
+      "sti": false,
+      "cik": "0001855612",
+      "sector_group": "Technology",
+      "awareness_focus": true
+    },
+    "sea": {
+      "name": "Sea Limited",
+      "listing": [
+        "SE",
+        "NYSE"
+      ],
+      "overview": "Sea’s official sustainability resources discuss access to digital services, small-business participation and communities served by its platforms. Its investor-relations site also provides annual reports and corporate governance information.",
+      "highlights": [
+        {
+          "text": "Sea describes its sustainability approach in terms of consumers, small businesses, local communities and employees across its digital ecosystem.",
+          "url": "https://www.sea.com/sustainability"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Sea sustainability overview",
+          "url": "https://www.sea.com/sustainability",
+          "published_at": null,
+          "publisher": "Sea Limited",
+          "format": "html"
+        }
+      ],
+      "wikidata_id": "Q93520415",
+      "wikipedia_title": "Sea Ltd",
+      "sti": false,
+      "cik": "0001703399",
+      "sector_group": "Technology",
+      "awareness_focus": true
+    },
+    "wilmar": {
+      "name": "Wilmar International",
+      "listing": [
+        "F34",
+        "SGX"
+      ],
+      "overview": "Wilmar publishes environmental, labour and supply-chain disclosures for its agribusiness operations. Its resource library includes responsible-sourcing policies, traceability updates, emissions data and grievance information.",
+      "highlights": [
+        {
+          "text": "Wilmar reports 2025 palm-oil traceability of 98.5% to mills and 90.0% to plantations.",
+          "url": "https://www.wilmar-international.com/sustainability/resource-library"
+        },
+        {
+          "text": "The same disclosures report an 11.3% year-on-year increase in absolute Scope 1 and 2 emissions in 2025. Renewable-energy initiatives and emissions outcomes should be reviewed together.",
+          "url": "https://www.wilmar-international.com/sustainability/resource-library"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Wilmar 2025 annual report – sustainability disclosures",
+          "url": "https://www.wilmar-international.com/annualreport2025/documents/Wilmar-AR25-Full.pdf",
+          "published_at": null,
+          "publisher": "Wilmar International"
+        }
+      ],
+      "wikidata_id": "Q1786712",
+      "wikipedia_title": "Wilmar International",
+      "sti": true,
+      "sector_group": "Food & agriculture",
+      "awareness_focus": true
+    },
+    "capitaland": {
+      "name": "CapitaLand Investment",
+      "listing": [
+        "9CI",
+        "SGX"
+      ],
+      "overview": "CapitaLand Investment provides sustainability reports, case studies and related ESG publications through its investor-relations library. Use the reporting boundaries to distinguish group disclosures from the performance of individual properties and funds.",
+      "highlights": [
+        {
+          "text": "The official publications library lists a 2025 Sustainability Report alongside its annual reports and earlier sustainability publications.",
+          "url": "https://www.capitaland.com/en/investment/investor-relations/publications.html"
+        }
+      ],
+      "documents": [
+        {
+          "title": "CapitaLand Investment Sustainability Report 2025",
+          "url": "https://www.capitaland.com/content/dam/capitalandinvestment/investor-relations/publications/CLI-Sustainability-Report-2025.pdf",
+          "published_at": null,
+          "publisher": "CapitaLand Investment"
+        }
+      ],
+      "wikidata_id": "Q3272868",
+      "wikipedia_title": "CapitaLand",
+      "sti": true,
+      "sector_group": "Real estate"
+    },
+    "aia": {
+      "name": "AIA Group",
+      "listing": [
+        "1299",
+        "HKEX"
+      ],
+      "overview": "AIA’s sustainability strategy connects health, financial protection, responsible investment, operations and its workforce. Its official sustainability site provides the 2025 report and separate reports on its strategic priorities.",
+      "highlights": [
+        {
+          "text": "AIA states a commitment to net-zero emissions by 2050. This is a future target rather than a statement that net zero has already been achieved.",
+          "url": "https://www.aia.com/en/sustainability/overview"
+        }
+      ],
+      "documents": [
+        {
+          "title": "AIA Sustainability Report 2025",
+          "url": "https://www.aia.com/content/dam/group-wise/en/docs/Sustainability/2025/Sustainability-Report_EN.pdf",
+          "published_at": null,
+          "publisher": "AIA Group"
+        }
+      ],
+      "wikidata_id": "Q1152465",
+      "wikipedia_title": "AIA Group",
+      "sti": false,
+      "sector_group": "Insurance"
+    },
+    "keppel": {
+      "name": "Keppel",
+      "listing": [
+        "BN4",
+        "SGX"
+      ],
+      "overview": "Keppel’s sustainability reporting describes its activities as an asset manager and operator, including climate-related disclosures and its climate transition plan. It distinguishes the operation of its own business from solutions offered to customers.",
+      "highlights": [
+        {
+          "text": "Keppel’s official reporting page links its 2025 Sustainability Report and describes an update to its Climate Transition Plan.",
+          "url": "https://www.keppel.com/sustainability/sustainability-reports/"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Keppel Sustainability Report 2025",
+          "url": "https://www.keppel.com/file/sustainability/sustainability-reports/keppel-sustainability-report-2025.pdf",
+          "published_at": "2026-05-28",
+          "publisher": "Keppel"
+        }
+      ],
+      "wikidata_id": "Q1585610",
+      "wikipedia_title": "Keppel Ltd.",
+      "sti": true,
+      "sector_group": "Energy & infrastructure",
+      "awareness_focus": true
+    },
+    "sembcorp": {
+      "name": "Sembcorp Industries",
+      "listing": [
+        "U96",
+        "SGX"
+      ],
+      "overview": "Sembcorp provides sustainability and climate-related disclosures alongside its annual reporting. Its reporting resources allow users to examine its energy-transition strategy, commitments and operational performance.",
+      "highlights": [
+        {
+          "text": "Sembcorp’s official reporting library provides a 2025 Sustainability Report and separate 2025 Climate-related Disclosures.",
+          "url": "https://www.sembcorp.com/driving-energy-transition/sustainability/reports/"
+        },
+        {
+          "text": "The 2025 report records 15 GW of gross installed renewable capacity and one work-related contractor fatality. Its targets, reporting boundaries and safety outcomes should be read together.",
+          "url": "https://www.sembcorp.com/media/z4ohu5lz/sembcorp-ar25_sustainability-report.pdf"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Sembcorp Sustainability Report 2025",
+          "url": "https://www.sembcorp.com/media/z4ohu5lz/sembcorp-ar25_sustainability-report.pdf",
+          "published_at": null,
+          "publisher": "Sembcorp Industries"
+        },
+        {
+          "title": "Sembcorp 2025 sustainability report – official annual-report edition",
+          "url": "https://media.sembcorp.com/data/cms/ar/ar2025/assets/pdf/Sustainability_Report.pdf",
+          "published_at": null,
+          "publisher": "Sembcorp Industries"
+        }
+      ],
+      "wikidata_id": "Q60788291",
+      "wikipedia_title": "Sembcorp",
+      "sti": true,
+      "sector_group": "Energy & infrastructure",
+      "awareness_focus": true
+    },
+    "comfortdelgro": {
+      "name": "ComfortDelGro",
+      "listing": [
+        "C52",
+        "SGX"
+      ],
+      "overview": "ComfortDelGro’s sustainability report covers transport emissions, passenger and employee safety, governance and innovation. Its emissions tables distinguish operational emissions from value-chain emissions.",
+      "highlights": [
+        {
+          "text": "For 2025, ComfortDelGro reports combined Scope 1 and market-based Scope 2 emissions 21.0% below its 2019 baseline, while Scope 3 emissions were 33.0% above that baseline.",
+          "url": "https://www.comfortdelgro.com/wp-content/uploads/2026/03/ComfortDelGro-Sustainability-Report-2025-2.pdf"
+        }
+      ],
+      "documents": [
+        {
+          "title": "ComfortDelGro Sustainability Report 2025",
+          "url": "https://www.comfortdelgro.com/wp-content/uploads/2026/03/ComfortDelGro-Sustainability-Report-2025-2.pdf",
+          "published_at": "2026-03-26",
+          "publisher": "ComfortDelGro"
+        }
+      ],
+      "wikidata_id": "Q4140545",
+      "wikipedia_title": "ComfortDelGro",
+      "sti": false,
+      "sector_group": "Transport",
+      "awareness_focus": true
+    },
+    "thai_union": {
+      "name": "Thai Union Group",
+      "listing": [
+        "TU",
+        "SET"
+      ],
+      "overview": "Thai Union’s SeaChange 2030 strategy covers seafood supply chains, human and labour rights, ocean health, climate action and circularity. Its sustainability reporting tracks progress against commitments rather than treating targets as completed outcomes.",
+      "highlights": [
+        {
+          "text": "SeaChange 2030 includes 11 interconnected goals. The company’s official resources provide its 2025 sustainability report, performance data and supporting policies.",
+          "url": "https://www.thaiunion.com/sustainability"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Thai Union Sustainability Report 2025",
+          "url": "https://www.thaiunion.com/uploads/Sustainability_Report_2025_en_1.pdf",
+          "published_at": null,
+          "publisher": "Thai Union Group"
+        }
+      ],
+      "wikidata_id": "Q7709167",
+      "wikipedia_title": "Thai Union Group",
+      "sti": false,
+      "sector_group": "Food & agriculture",
+      "awareness_focus": true
+    },
+    "nvidia": {
+      "name": "NVIDIA",
+      "listing": [
+        "NVDA",
+        "NASDAQ"
+      ],
+      "cik": "0001045810",
+      "overview": "NVIDIA’s sustainability resources cover the environmental footprint of computing, product energy efficiency and responsible business practices. Product-efficiency claims should be considered alongside manufacturing, supply-chain and operational impacts.",
+      "highlights": [
+        {
+          "text": "NVIDIA publishes a FY2026 Sustainability Report and product carbon footprints. Its sustainability site says those footprints follow ISO 14067:2018 and have third-party verification.",
+          "url": "https://www.nvidia.com/en-us/sustainability/"
+        }
+      ],
+      "documents": [
+        {
+          "title": "NVIDIA Sustainability Report FY2026",
+          "url": "https://images.nvidia.com/aem-dam/Solutions/documents/NVIDIA-Sustainability-Report-Fiscal-Year-2026.pdf",
+          "published_at": null,
+          "publisher": "NVIDIA"
+        }
+      ],
+      "wikidata_id": "Q182477",
+      "wikipedia_title": "Nvidia",
+      "sti": false,
+      "sector_group": "Technology",
+      "awareness_focus": true
+    },
+    "clar": {
+      "name": "CapitaLand Ascendas REIT",
+      "listing": [
+        "A17U",
+        "SGX"
+      ],
+      "sector": "Real Estate",
+      "country": "SG",
+      "overview": "Business space and industrial real estate investment trust with properties across Singapore and overseas markets.",
+      "business_summary": "Business space and industrial real estate investment trust with properties across Singapore and overseas markets.",
+      "wikidata_id": "Q138447238",
+      "identity_note": null,
+      "highlights": [],
+      "documents": [
+        {
+          "title": "CapitaLand Ascendas REIT Sustainability Report 2025",
+          "url": "https://investor.capitaland-ascendasreit.com/newsroom/20260419_094944_A17U_EJXHMD3OKEAYWE0W.1.pdf",
+          "published_at": null,
+          "publisher": "CapitaLand Ascendas REIT"
+        }
+      ],
+      "sti": true,
+      "sector_group": "Real estate"
+    },
+    "cict": {
+      "name": "CapitaLand Integrated Commercial Trust",
+      "listing": [
+        "C38U",
+        "SGX"
+      ],
+      "sector": "Real Estate",
+      "country": "SG",
+      "overview": "Real estate investment trust investing in retail, office and integrated commercial properties.",
+      "business_summary": "Real estate investment trust investing in retail, office and integrated commercial properties.",
+      "wikidata_id": "Q106226254",
+      "identity_note": null,
+      "highlights": [],
+      "documents": [
+        {
+          "title": "CapitaLand Integrated Commercial Trust Sustainability Report 2025",
+          "url": "https://investor.cict.com.sg/misc/CICTSR2025.pdf",
+          "published_at": null,
+          "publisher": "CapitaLand Integrated Commercial Trust"
+        }
+      ],
+      "sti": true,
+      "sector_group": "Real estate"
+    },
+    "cdl": {
+      "name": "City Developments Limited",
+      "listing": [
+        "C09",
+        "SGX"
+      ],
+      "sector": "Real Estate",
+      "country": "SG",
+      "overview": "Property developer and owner with residential, commercial and hospitality businesses.",
+      "business_summary": "Property developer and owner with residential, commercial and hospitality businesses.",
+      "wikidata_id": "Q16259060",
+      "identity_note": null,
+      "highlights": [],
+      "documents": [
+        {
+          "title": "City Developments Limited Sustainability Report 2026",
+          "url": "https://ir.cdl.com.sg/static-files/a793a5cc-7963-4aef-8975-56abf71c2873",
+          "published_at": null,
+          "publisher": "City Developments Limited"
+        }
+      ],
+      "sti": true,
+      "sector_group": "Real estate"
+    },
+    "dfi": {
+      "name": "DFI Retail Group",
+      "listing": [
+        "D01",
+        "SGX"
+      ],
+      "sector": "Consumer Staples",
+      "country": "BM",
+      "overview": "Asian retail group operating food, health and beauty, convenience and home-furnishing businesses.",
+      "business_summary": "Asian retail group operating food, health and beauty, convenience and home-furnishing businesses.",
+      "wikidata_id": "Q6569399",
+      "identity_note": null,
+      "highlights": [],
+      "documents": [
+        {
+          "title": "DFI Retail Group Sustainability Report 2025",
+          "url": "https://www.dfiretailgroup.com/media/em3k15dr/dfi-sustainability-disclosure-2025.pdf",
+          "published_at": null,
+          "publisher": "DFI Retail Group"
+        }
+      ],
+      "sti": true,
+      "sector_group": "Consumer Staples"
+    },
+    "fct": {
+      "name": "Frasers Centrepoint Trust",
+      "listing": [
+        "J69U",
+        "SGX"
+      ],
+      "sector": "Real Estate",
+      "country": "SG",
+      "overview": "Singapore retail real estate investment trust focused on suburban shopping malls.",
+      "business_summary": "Singapore retail real estate investment trust focused on suburban shopping malls.",
+      "wikidata_id": null,
+      "identity_note": "No matching Wikidata entity was verified. Profile uses the issuer publication; no parent-company facts are substituted.",
+      "highlights": [],
+      "documents": [
+        {
+          "title": "Frasers Centrepoint Trust Sustainability Report 2025",
+          "url": "https://fct.frasersproperty.com/newsroom/20251223_072630_J69U_G8VO1OKAKESDUJ27.1.pdf",
+          "published_at": null,
+          "publisher": "Frasers Centrepoint Trust"
+        }
+      ],
+      "sti": true,
+      "sector_group": "Real estate"
+    },
+    "flct": {
+      "name": "Frasers Logistics & Commercial Trust",
+      "listing": [
+        "BUOU",
+        "SGX"
+      ],
+      "sector": "Real Estate",
+      "country": "SG",
+      "overview": "Real estate investment trust owning logistics, industrial and commercial properties in several markets.",
+      "business_summary": "Real estate investment trust owning logistics, industrial and commercial properties in several markets.",
+      "wikidata_id": null,
+      "identity_note": "No matching Wikidata entity was verified. Profile uses the issuer publication; no parent-company facts are substituted.",
+      "highlights": [],
+      "documents": [
+        {
+          "title": "Frasers Logistics & Commercial Trust Sustainability Report 2025",
+          "url": "https://flct.frasersproperty.com/newsroom/20251223_074000_BUOU_G2TBU6DEH4JQY4ND.1.pdf",
+          "published_at": null,
+          "publisher": "Frasers Logistics & Commercial Trust"
+        }
+      ],
+      "sti": true,
+      "sector_group": "Real estate"
+    },
+    "genting": {
+      "name": "Genting Singapore",
+      "listing": [
+        "G13",
+        "SGX"
+      ],
+      "sector": "Consumer Discretionary",
+      "country": "SG",
+      "overview": "Integrated-resort operator whose principal business includes Resorts World Sentosa in Singapore.",
+      "business_summary": "Integrated-resort operator whose principal business includes Resorts World Sentosa in Singapore.",
+      "wikidata_id": "Q5533666",
+      "identity_note": null,
+      "highlights": [],
+      "documents": [
+        {
+          "title": "Genting Singapore Sustainability Report 2025",
+          "url": "https://gentingsingapore.listedcompany.com/misc/Sustainability-Report-2025.pdf",
+          "published_at": null,
+          "publisher": "Genting Singapore"
+        }
+      ],
+      "sti": true,
+      "sector_group": "Consumer Discretionary"
+    },
+    "hkland": {
+      "name": "Hongkong Land",
+      "listing": [
+        "H78",
+        "SGX"
+      ],
+      "sector": "Real Estate",
+      "country": "BM",
+      "overview": "Property investment, management and development group with commercial and residential projects in Asia.",
+      "business_summary": "Property investment, management and development group with commercial and residential projects in Asia.",
+      "wikidata_id": "Q753801",
+      "identity_note": null,
+      "highlights": [],
+      "documents": [
+        {
+          "title": "Hongkong Land Sustainability Report 2025",
+          "url": "https://webfile.hkland.com/assets/sustainability-report/2026/en/hongkong-land-sustainability.pdf",
+          "published_at": null,
+          "publisher": "Hongkong Land"
+        }
+      ],
+      "sti": true,
+      "sector_group": "Real estate"
+    },
+    "jardine": {
+      "name": "Jardine Matheson",
+      "listing": [
+        "J36",
+        "SGX"
+      ],
+      "sector": "Industrials",
+      "country": "BM",
+      "overview": "Diversified Asian business group with interests spanning property, retail, automotive and other sectors.",
+      "business_summary": "Diversified Asian business group with interests spanning property, retail, automotive and other sectors.",
+      "wikidata_id": "Q1683452",
+      "identity_note": null,
+      "highlights": [],
+      "documents": [
+        {
+          "title": "Jardine Matheson Sustainability Report 2025",
+          "url": "https://www.jardines.com/content/dam/jardines/corporate/documents/sustainability/reports---publications/Jardine_SR2025.pdf",
+          "published_at": null,
+          "publisher": "Jardine Matheson"
+        }
+      ],
+      "sti": true,
+      "sector_group": "Industrials"
+    },
+    "kdc": {
+      "name": "Keppel DC REIT",
+      "listing": [
+        "AJBU",
+        "SGX"
+      ],
+      "sector": "Real Estate",
+      "country": "SG",
+      "overview": "Real estate investment trust investing in data centre assets.",
+      "business_summary": "Real estate investment trust investing in data centre assets.",
+      "wikidata_id": null,
+      "identity_note": "No matching Wikidata entity was verified. Profile uses the issuer publication; no parent-company facts are substituted.",
+      "highlights": [],
+      "documents": [
+        {
+          "title": "Keppel DC REIT Sustainability Report 2025",
+          "url": "https://www.keppeldcreit.com/en/file/sustainability/sustainability-report/kdcr-sr2025.pdf",
+          "published_at": null,
+          "publisher": "Keppel DC REIT"
+        }
+      ],
+      "sti": true,
+      "sector_group": "Real estate"
+    },
+    "mit": {
+      "name": "Mapletree Industrial Trust",
+      "listing": [
+        "ME8U",
+        "SGX"
+      ],
+      "sector": "Real Estate",
+      "country": "SG",
+      "overview": "Industrial real estate investment trust with data centres and industrial properties.",
+      "business_summary": "Industrial real estate investment trust with data centres and industrial properties.",
+      "wikidata_id": "Q17027282",
+      "identity_note": null,
+      "highlights": [],
+      "documents": [
+        {
+          "title": "Mapletree Industrial Trust Sustainability Report 2025/26",
+          "url": "https://investor.mapletreeindustrialtrust.com/newsroom/20260622_074420_ME8U_AZUPGN8589QMNDV0.1.pdf",
+          "published_at": null,
+          "publisher": "Mapletree Industrial Trust"
+        }
+      ],
+      "sti": true,
+      "sector_group": "Real estate"
+    },
+    "mlt": {
+      "name": "Mapletree Logistics Trust",
+      "listing": [
+        "M44U",
+        "SGX"
+      ],
+      "sector": "Real Estate",
+      "country": "SG",
+      "overview": "Real estate investment trust investing in logistics properties across Asia Pacific.",
+      "business_summary": "Real estate investment trust investing in logistics properties across Asia Pacific.",
+      "wikidata_id": "Q17038379",
+      "identity_note": null,
+      "highlights": [],
+      "documents": [
+        {
+          "title": "Mapletree Logistics Trust Sustainability Report 2025/26",
+          "url": "https://investor.mapletreelogisticstrust.com/misc/MLT-SR2526.pdf",
+          "published_at": null,
+          "publisher": "Mapletree Logistics Trust"
+        }
+      ],
+      "sti": true,
+      "sector_group": "Real estate"
+    },
+    "mpact": {
+      "name": "Mapletree Pan Asia Commercial Trust",
+      "listing": [
+        "N2IU",
+        "SGX"
+      ],
+      "sector": "Real Estate",
+      "country": "SG",
+      "overview": "Commercial real estate investment trust with office, retail and business-park properties in Asia.",
+      "business_summary": "Commercial real estate investment trust with office, retail and business-park properties in Asia.",
+      "wikidata_id": "Q17027275",
+      "identity_note": null,
+      "highlights": [],
+      "documents": [
+        {
+          "title": "Mapletree Pan Asia Commercial Trust Sustainability Report 2025/26",
+          "url": "https://investor.mapletreepact.com/newsroom/20260630_070607_N2IU_DRLT3SYB5MRDPO3L.1.pdf",
+          "published_at": null,
+          "publisher": "Mapletree Pan Asia Commercial Trust"
+        }
+      ],
+      "sti": true,
+      "sector_group": "Real estate"
+    },
+    "sats": {
+      "name": "SATS",
+      "listing": [
+        "S58",
+        "SGX"
+      ],
+      "sector": "Industrials",
+      "country": "SG",
+      "overview": "Air cargo handling and food-solutions provider serving airlines and other customers.",
+      "business_summary": "Air cargo handling and food-solutions provider serving airlines and other customers.",
+      "wikidata_id": "Q7388847",
+      "identity_note": null,
+      "highlights": [],
+      "documents": [
+        {
+          "title": "SATS Sustainability Report 2026",
+          "url": "https://www.sats.com.sg/content/dam/sats/corporate/images/investors/annual-report-2026/sustainability-report/SATS%20Sustainability%20Report%20FY2026.pdf.downloadasset.pdf",
+          "published_at": null,
+          "publisher": "SATS"
+        }
+      ],
+      "sti": true,
+      "sector_group": "Industrials"
+    },
+    "seatrium": {
+      "name": "Seatrium",
+      "listing": [
+        "5E2",
+        "SGX"
+      ],
+      "sector": "Industrials",
+      "country": "SG",
+      "overview": "Engineering group serving offshore, marine and energy customers through vessel and platform projects.",
+      "business_summary": "Engineering group serving offshore, marine and energy customers through vessel and platform projects.",
+      "wikidata_id": "Q7449144",
+      "identity_note": null,
+      "highlights": [],
+      "documents": [
+        {
+          "title": "Seatrium Sustainability Report 2025",
+          "url": "https://investors.seatrium.com/newsroom/20260323_062348_5E2_W0HQ5XE6UG6O0W12.1.pdf",
+          "published_at": null,
+          "publisher": "Seatrium"
+        }
+      ],
+      "sti": true,
+      "sector_group": "Industrials"
+    },
+    "sia": {
+      "name": "Singapore Airlines",
+      "listing": [
+        "C6L",
+        "SGX"
+      ],
+      "sector": "Industrials",
+      "country": "SG",
+      "overview": "Airline group providing passenger and cargo air transport services.",
+      "business_summary": "Airline group providing passenger and cargo air transport services.",
+      "wikidata_id": "Q32245",
+      "identity_note": null,
+      "highlights": [],
+      "documents": [
+        {
+          "title": "Singapore Airlines Sustainability Report 2025/26",
+          "url": "https://www.singaporeair.com/content/dam/sia/web-assets/pdfs/about-us/information-for-investors/annual-report/sustainabilityreport2526.pdf",
+          "published_at": null,
+          "publisher": "Singapore Airlines"
+        }
+      ],
+      "sti": true,
+      "sector_group": "Transport",
+      "awareness_focus": true
+    },
+    "sgx": {
+      "name": "Singapore Exchange",
+      "listing": [
+        "S68",
+        "SGX"
+      ],
+      "sector": "Financials",
+      "country": "SG",
+      "overview": "Multi-asset exchange group providing trading, clearing, market data and related services.",
+      "business_summary": "Multi-asset exchange group providing trading, clearing, market data and related services.",
+      "wikidata_id": "Q1515558",
+      "identity_note": null,
+      "highlights": [],
+      "documents": [
+        {
+          "title": "Singapore Exchange Sustainability Report 2026",
+          "url": "https://investorrelations.sgx.com/static-files/ae459e83-2dc0-412a-9775-c3871ed0d82e",
+          "published_at": null,
+          "publisher": "Singapore Exchange"
+        }
+      ],
+      "sti": true,
+      "sector_group": "Financials"
+    },
+    "stengg": {
+      "name": "ST Engineering",
+      "listing": [
+        "S63",
+        "SGX"
+      ],
+      "sector": "Industrials",
+      "country": "SG",
+      "overview": "Technology, defence and engineering group with aerospace, smart city, defence and public-security businesses.",
+      "business_summary": "Technology, defence and engineering group with aerospace, smart city, defence and public-security businesses.",
+      "wikidata_id": "Q3719328",
+      "identity_note": null,
+      "highlights": [],
+      "documents": [
+        {
+          "title": "ST Engineering Sustainability Report 2025",
+          "url": "https://www.stengg.com/getContentAsset/ad7f7fb3-5623-4eb1-829b-44340bfd8c28/dfc3d011-8f63-43f6-9ed8-4b444333a1d0/ST-Engineering-Sustainability-Report-2025.pdf",
+          "published_at": null,
+          "publisher": "ST Engineering"
+        }
+      ],
+      "sti": true,
+      "sector_group": "Industrials"
+    },
+    "thaibev": {
+      "name": "Thai Beverage",
+      "listing": [
+        "Y92",
+        "SGX"
+      ],
+      "sector": "Consumer Staples",
+      "country": "TH",
+      "overview": "Beverage group producing and distributing spirits, beer and non-alcoholic drinks.",
+      "business_summary": "Beverage group producing and distributing spirits, beer and non-alcoholic drinks.",
+      "wikidata_id": "Q15304350",
+      "identity_note": null,
+      "highlights": [],
+      "documents": [
+        {
+          "title": "Thai Beverage Sustainability Report 2025",
+          "url": "https://sustainability.thaibev.com/download/thaibevsr2025en.pdf",
+          "published_at": null,
+          "publisher": "Thai Beverage"
+        }
+      ],
+      "sti": true,
+      "sector_group": "Consumer Staples"
+    },
+    "uol": {
+      "name": "UOL Group",
+      "listing": [
+        "U14",
+        "SGX"
+      ],
+      "sector": "Real Estate",
+      "country": "SG",
+      "overview": "Property group with development, investment and hotel businesses.",
+      "business_summary": "Property group with development, investment and hotel businesses.",
+      "wikidata_id": "Q10905299",
+      "identity_note": null,
+      "highlights": [],
+      "documents": [
+        {
+          "title": "UOL Group Sustainability Report 2025",
+          "url": "https://www.uol.com.sg/wp-content/uploads/uol-reports/files/UOL_Group_Sustainability_Report_FY2025.pdf",
+          "published_at": null,
+          "publisher": "UOL Group"
+        }
+      ],
+      "sti": true,
+      "sector_group": "Real estate"
+    },
+    "venture": {
+      "name": "Venture Corporation",
+      "listing": [
+        "V03",
+        "SGX"
+      ],
+      "sector": "Information Technology",
+      "country": "SG",
+      "overview": "Technology services and manufacturing group serving life sciences, industrial and other high-technology markets.",
+      "business_summary": "Technology services and manufacturing group serving life sciences, industrial and other high-technology markets.",
+      "wikidata_id": "Q16909913",
+      "identity_note": null,
+      "highlights": [],
+      "documents": [
+        {
+          "title": "Venture Corporation Sustainability Report 2025",
+          "url": "https://venture.listedcompany.com/misc/ar2025/VCL_Sustainability_Report_2025.pdf",
+          "published_at": null,
+          "publisher": "Venture Corporation"
+        }
+      ],
+      "sti": true,
+      "sector_group": "Information Technology"
+    },
+    "yzj": {
+      "name": "Yangzijiang Shipbuilding",
+      "listing": [
+        "BS6",
+        "SGX"
+      ],
+      "sector": "Industrials",
+      "country": "CN",
+      "overview": "Shipbuilding group with commercial-vessel construction and related maritime operations.",
+      "business_summary": "Shipbuilding group with commercial-vessel construction and related maritime operations.",
+      "wikidata_id": "Q11078283",
+      "identity_note": null,
+      "highlights": [],
+      "documents": [
+        {
+          "title": "Yangzijiang Shipbuilding Sustainability Report 2025",
+          "url": "https://www.yzjship.com/Upload/ueditor/files/2026-04-27/Yangzijiang_Shipbuilding_SUSTAINABILITYREPORT2025-477ccbd6dcef4102869f7fa1105c449a.pdf",
+          "published_at": null,
+          "publisher": "Yangzijiang Shipbuilding"
+        }
+      ],
+      "sti": true,
+      "sector_group": "Industrials"
+    },
+    "ptt": {
+      "name": "PTT",
+      "listing": [
+        "PTT",
+        "SET"
+      ],
+      "country": "TH",
+      "sector": "Oil & gas",
+      "sector_group": "Oil & gas",
+      "awareness_focus": true,
+      "overview": "PTT is a Thailand-based energy group with gas, oil, petrochemicals and international trading businesses. Review producer-attributed emissions separately from its reported operational targets.",
+      "business_summary": "PTT is a Thailand-based energy group with gas, oil, petrochemicals and international trading businesses. Review producer-attributed emissions separately from its reported operational targets.",
+      "wikipedia_title": "PTT Public Company Limited",
+      "wikidata_id": "Q1810389",
+      "highlights": [],
+      "documents": [
+        {
+          "title": "PTT One Report 2025",
+          "url": "https://ptt.listedcompany.com/misc/one-report/ptt-one-report-2025-en.pdf",
+          "published_at": null,
+          "publisher": "PTT"
+        }
+      ],
+      "carbon_majors_names": [
+        "PTT",
+        "PTT Public Company Limited"
+      ],
+      "sti": false
+    },
+    "exxonmobil": {
+      "name": "ExxonMobil",
+      "listing": [
+        "XOM",
+        "NYSE"
+      ],
+      "country": "US",
+      "sector": "Oil & gas",
+      "sector_group": "Oil & gas",
+      "awareness_focus": true,
+      "overview": "ExxonMobil produces oil and gas and manufactures fuels, lubricants and chemicals. Its climate report presents company claims; production-linked emissions provide a different view of impact.",
+      "business_summary": "ExxonMobil produces oil and gas and manufactures fuels, lubricants and chemicals. Its climate report presents company claims; production-linked emissions provide a different view of impact.",
+      "wikipedia_title": "ExxonMobil",
+      "wikidata_id": "Q156238",
+      "highlights": [],
+      "documents": [
+        {
+          "title": "ExxonMobil Advancing Climate Solutions 2026",
+          "url": "https://corporate.exxonmobil.com/-/media/global/files/advancing-climate-solutions/2026/2026-advancing-climate-solutions-report.pdf",
+          "published_at": null,
+          "publisher": "ExxonMobil"
+        }
+      ],
+      "carbon_majors_names": [
+        "ExxonMobil"
+      ],
+      "sti": false,
+      "cik": "0002115436",
+      "identity_note": "The current XOM SEC filing entity is ExxonMobil Holdings Corporation. Earlier climate reports and Carbon Majors estimates refer to the ExxonMobil group; verify the corporate boundary."
+    },
+    "shell": {
+      "name": "Shell",
+      "listing": [
+        "SHEL",
+        "LSE"
+      ],
+      "country": "GB",
+      "sector": "Oil & gas",
+      "sector_group": "Oil & gas",
+      "awareness_focus": true,
+      "overview": "Shell operates oil, gas, LNG, fuels and energy businesses. Its annual report includes sustainability statements; operational reductions and downstream product emissions have different boundaries.",
+      "business_summary": "Shell operates oil, gas, LNG, fuels and energy businesses. Its annual report includes sustainability statements; operational reductions and downstream product emissions have different boundaries.",
+      "wikipedia_title": "Shell plc",
+      "wikidata_id": "Q154950",
+      "highlights": [],
+      "documents": [
+        {
+          "title": "Shell Annual Report 2025",
+          "url": "https://www.shell.com/investors/results-and-reporting/annual-report/_jcr_content/root/main/section/promo/links/item0.stream/1774544186011/5727c329a58b5eb7a54442c0a03f562a5aef1159/shell-annual-report-2025-interactive.pdf",
+          "published_at": null,
+          "publisher": "Shell"
+        }
+      ],
+      "carbon_majors_names": [
+        "Shell"
+      ],
+      "sti": false
+    },
+    "chevron": {
+      "name": "Chevron",
+      "listing": [
+        "CVX",
+        "NYSE"
+      ],
+      "country": "US",
+      "sector": "Oil & gas",
+      "sector_group": "Oil & gas",
+      "awareness_focus": true,
+      "overview": "Chevron is an integrated oil and gas company. Review its company-reported environmental indicators alongside production and independently attributed emissions.",
+      "business_summary": "Chevron is an integrated oil and gas company. Review its company-reported environmental indicators alongside production and independently attributed emissions.",
+      "wikipedia_title": "Chevron Corporation",
+      "wikidata_id": "Q319642",
+      "highlights": [
+        {
+          "text": "Chevron publishes group sustainability highlights and environmental data. Automated access to its reports may be restricted; open the original to review the full tables and reporting boundaries.",
+          "url": "https://www.chevron.com/-/media/shared-media/documents/chevron-sustainability-highlights-2024"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Chevron Corporate Sustainability Highlights 2024",
+          "url": "https://www.chevron.com/-/media/shared-media/documents/chevron-sustainability-highlights-2024",
+          "published_at": null,
+          "publisher": "Chevron"
+        },
+        {
+          "title": "Chevron sustainability reporting",
+          "url": "https://www.chevron.com/investors/esg",
+          "published_at": null,
+          "publisher": "Chevron",
+          "format": "html"
+        }
+      ],
+      "carbon_majors_names": [
+        "Chevron"
+      ],
+      "sti": false,
+      "cik": "0000093410"
+    },
+    "totalenergies": {
+      "name": "TotalEnergies",
+      "listing": [
+        "TTE",
+        "EURONEXT"
+      ],
+      "country": "FR",
+      "sector": "Oil & gas",
+      "sector_group": "Oil & gas",
+      "awareness_focus": true,
+      "overview": "TotalEnergies operates oil, gas, LNG and electricity businesses. Its climate progress report includes energy-transition claims that should be read alongside production and absolute emissions.",
+      "business_summary": "TotalEnergies operates oil, gas, LNG and electricity businesses. Its climate progress report includes energy-transition claims that should be read alongside production and absolute emissions.",
+      "wikipedia_title": "TotalEnergies",
+      "wikidata_id": "Q154037",
+      "highlights": [],
+      "documents": [
+        {
+          "title": "TotalEnergies Sustainability & Climate 2026 presentation",
+          "url": "https://totalenergies.com/system/files/documents/totalenergies_sustainability-climate-2026-progress-report-presentation_2026_en.pdf",
+          "published_at": null,
+          "publisher": "TotalEnergies"
+        },
+        {
+          "title": "TotalEnergies Sustainability & Climate Progress Report 2026",
+          "url": "https://totalenergies.com/system/files/documents/totalenergies_sustainability-climate-2026-progress-report_2026_en.pdf",
+          "published_at": null,
+          "publisher": "TotalEnergies"
+        }
+      ],
+      "carbon_majors_names": [
+        "TotalEnergies",
+        "Total"
+      ],
+      "sti": false
+    },
+    "glencore": {
+      "name": "Glencore",
+      "listing": [
+        "GLEN",
+        "LSE"
+      ],
+      "country": "CH",
+      "sector": "Mining",
+      "sector_group": "Mining",
+      "awareness_focus": true,
+      "overview": "Glencore produces and markets metals, minerals and energy commodities. Its sustainability reporting covers climate, safety, tailings, communities and business conduct.",
+      "business_summary": "Glencore produces and markets metals, minerals and energy commodities. Its sustainability reporting covers climate, safety, tailings, communities and business conduct.",
+      "wikipedia_title": "Glencore",
+      "wikidata_id": "Q169339",
+      "highlights": [],
+      "documents": [
+        {
+          "title": "Glencore Sustainability Report 2025",
+          "url": "https://www.glencore.com/.rest/api/v1/documents/static/58d43f94-38de-4535-a765-9db9fbb7ad52/GLEN-2025-Sustainability-Report.pdf",
+          "published_at": null,
+          "publisher": "Glencore"
+        }
+      ],
+      "carbon_majors_names": [
+        "Glencore"
+      ],
+      "sti": false
+    },
+    "bhp": {
+      "name": "BHP",
+      "listing": [
+        "BHP",
+        "ASX"
+      ],
+      "country": "AU",
+      "sector": "Mining",
+      "sector_group": "Mining",
+      "awareness_focus": true,
+      "overview": "BHP produces minerals including copper, iron ore and steelmaking coal. Its annual reporting covers operational performance, climate, safety and community impacts.",
+      "business_summary": "BHP produces minerals including copper, iron ore and steelmaking coal. Its annual reporting covers operational performance, climate, safety and community impacts.",
+      "wikipedia_title": "BHP",
+      "wikidata_id": "Q625713",
+      "highlights": [],
+      "documents": [
+        {
+          "title": "BHP Annual Report 2025",
+          "url": "https://www.bhp.com/-/media/documents/investors/annual-reports/2025/250819_bhpannualreport2025.pdf",
+          "published_at": "2025-08-19",
+          "publisher": "BHP"
+        },
+        {
+          "title": "BHP Annual Reporting Suite 2025",
+          "url": "https://www.bhp.com/news/media-centre/reports-presentations/2025/08/2025-annual-reporting-suite",
+          "published_at": null,
+          "publisher": "BHP",
+          "format": "html"
+        }
+      ],
+      "carbon_majors_names": [
+        "BHP",
+        "BHP Billiton"
+      ],
+      "sti": false
+    },
+    "holcim": {
+      "name": "Holcim",
+      "listing": [
+        "HOLN",
+        "SIX"
+      ],
+      "country": "CH",
+      "sector": "Cement & steel",
+      "sector_group": "Cement & steel",
+      "awareness_focus": true,
+      "overview": "Holcim supplies cement, concrete and building solutions. Cement process emissions, energy use and changes in the reporting group are important when interpreting its climate claims.",
+      "business_summary": "Holcim supplies cement, concrete and building solutions. Cement process emissions, energy use and changes in the reporting group are important when interpreting its climate claims.",
+      "wikipedia_title": "Holcim",
+      "wikidata_id": "Q267818",
+      "highlights": [],
+      "documents": [
+        {
+          "title": "Holcim Sustainability Statement 2025",
+          "url": "https://www.holcim.com/sites/holcim/files/docs/27022026-holcim-sustainability-statement-2025.pdf",
+          "published_at": null,
+          "publisher": "Holcim"
+        }
+      ],
+      "carbon_majors_names": [
+        "Holcim",
+        "LafargeHolcim"
+      ],
+      "sti": false
+    },
+    "arcelormittal": {
+      "name": "ArcelorMittal",
+      "listing": [
+        "MT",
+        "EURONEXT"
+      ],
+      "country": "LU",
+      "sector": "Cement & steel",
+      "sector_group": "Cement & steel",
+      "awareness_focus": true,
+      "overview": "ArcelorMittal produces steel and operates mining businesses. Its sustainability report covers safety, climate, environmental performance and responsible sourcing.",
+      "business_summary": "ArcelorMittal produces steel and operates mining businesses. Its sustainability report covers safety, climate, environmental performance and responsible sourcing.",
+      "wikipedia_title": "ArcelorMittal",
+      "wikidata_id": "Q27893",
+      "highlights": [],
+      "documents": [
+        {
+          "title": "ArcelorMittal Sustainability Report 2025: Quick Read",
+          "url": "https://cms.arcelormittal.com/media/3omjutcc/am_sustainability_report_quick_read-1.pdf",
+          "published_at": null,
+          "publisher": "ArcelorMittal"
+        },
+        {
+          "title": "ArcelorMittal Sustainability Report 2025",
+          "url": "https://cdn.arcelormittal.com/media/12gardry/2025-sd-report-22-april-2026-final-upload.pdf",
+          "published_at": null,
+          "publisher": "ArcelorMittal"
+        }
+      ],
+      "sti": false,
+      "reviewed_excerpts": [
+        {
+          "quote": "group carbon intensity of 1.79 tCO2e/tCS in 2025.",
+          "page": 3,
+          "url": "https://cms.arcelormittal.com/media/3omjutcc/am_sustainability_report_quick_read-1.pdf"
+        }
+      ]
+    },
+    "golden_agri": {
+      "name": "Golden Agri-Resources",
+      "listing": [
+        "E5H",
+        "SGX"
+      ],
+      "country": "SG",
+      "sector": "Food & agriculture",
+      "sector_group": "Food & agriculture",
+      "awareness_focus": true,
+      "overview": "Golden Agri-Resources operates palm-oil plantations and downstream processing and distribution. Deforestation policies, supply-chain traceability and labour conditions are relevant to its impact.",
+      "business_summary": "Golden Agri-Resources operates palm-oil plantations and downstream processing and distribution. Deforestation policies, supply-chain traceability and labour conditions are relevant to its impact.",
+      "wikipedia_title": "Golden Agri-Resources",
+      "wikidata_id": "Q17039222",
+      "highlights": [],
+      "documents": [
+        {
+          "title": "Golden Agri-Resources Chairman statement 2025",
+          "url": "https://www.golden-agri.com/wp-content/uploads/2026/06/2025_SR_GAR_CHAIRMAN-STATEMENT_FINAL-1.pdf",
+          "published_at": null,
+          "publisher": "Golden Agri-Resources"
+        },
+        {
+          "title": "Golden Agri-Resources Sustainability Report",
+          "url": "https://www.golden-agri.com/?download_id=114494&sdm_process_download=1",
+          "published_at": null,
+          "publisher": "Golden Agri-Resources"
+        }
+      ],
+      "sti": false
+    },
+    "nestle": {
+      "name": "Nestlé",
+      "listing": [
+        "NESN",
+        "SIX"
+      ],
+      "country": "CH",
+      "sector": "Food & agriculture",
+      "sector_group": "Food & agriculture",
+      "awareness_focus": true,
+      "overview": "Nestlé produces food and beverages across global supply chains. Its non-financial reporting covers agricultural sourcing, deforestation, emissions, packaging and human rights.",
+      "business_summary": "Nestlé produces food and beverages across global supply chains. Its non-financial reporting covers agricultural sourcing, deforestation, emissions, packaging and human rights.",
+      "wikipedia_title": "Nestlé",
+      "wikidata_id": "Q160746",
+      "highlights": [],
+      "documents": [
+        {
+          "title": "Nestlé Non-Financial Statement 2025",
+          "url": "https://www.nestle.com/sites/default/files/2026-02/non-financial-statement-2025.pdf",
+          "published_at": null,
+          "publisher": "Nestlé"
+        }
+      ],
+      "sti": false
+    }
+  },
+  "scope": "ASEAN companies and global benchmarks across energy, mining, materials, food, transport, banking and technology; the full STI research catalog remains available.",
+  "scope_source": "https://www.ssga.com/library-content/products/fund-data/etfs/apac/basket-sg-en-es3.csv",
+  "scope_as_of": "2026-11-16"
+}

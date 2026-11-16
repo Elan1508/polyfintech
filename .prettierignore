@@ -1,0 +1,9 @@
+node_modules/
+frontend/node_modules/
+frontend/dist/
+backend/.venv/
+backend/runtime/
+__pycache__/
+artifacts/
+package-lock.json
+frontend/package-lock.json
